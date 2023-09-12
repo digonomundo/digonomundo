@@ -2,18 +2,14 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Rodrigo+Marques+Dias;I%27m+19+years+old;I%27m+from+Brazil,+SP;I+study+systems+development+at+Etec%20;Be+Welcome!+:%29)
 
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=digonomundo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Marques Dias github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digonomundo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <br>
-<br>
   
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=digonomundo&bg_color=030707&color=ffffff&line=37e198&point=212121&area=true&hide_border=true)  
-
 
 ### Main skills:
 
@@ -23,13 +19,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 
-
 ### Tools
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-808080?style=for-the-badge&logo=ANDROIDSTUDIO)&nbsp;
-
 
 ### Other Knowledge:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -37,11 +31,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 
-
-
 ### Studying in this moment
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-
 
 ### I'm interested in
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
