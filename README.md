@@ -58,10 +58,6 @@ else
 <a href="https://www.linkedin.com/in/digonomundo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<div align="center">  
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=digonomundo)
-</div>
-
 ### 
 [![Typing_svg](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bye,+thanks+for+visiting+:%29)](https://git.io/typing-svg)&nbsp;
 
