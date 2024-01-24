@@ -1,4 +1,4 @@
-<img src=".github/imgDigoAi.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Illustration">
+<img src=".github/imgDigoAi.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Illustration">
 
 # Olá, eu sou o Rodrigo
 
