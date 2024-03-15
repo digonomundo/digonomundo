@@ -1,6 +1,5 @@
-<img src=".github/imgDigoia.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Illustration">
-
 # Olá, eu sou o Rodrigo <img src=".github/cafe.gif">
+<img src=".github/imgDigoia.png" min-width="290px" max-width="290px" width="290px" align="right" alt="Illustration">
 
 ### Main skills:
 
