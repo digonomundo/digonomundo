@@ -1,7 +1,7 @@
 name: Dynamic README injection
 on:
   schedule:
-    - cron: '0 * * * *'  # Executa a cada 1 hora
+    - cron: '0 3 * * *'  # Executa a cada dia 00:00
   push:                  # Reconhece mudanças no repositório
     branches:
       - main
