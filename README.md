@@ -37,6 +37,6 @@ else
 ```
 ## The Daily Quote
 
-<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
+<p>Your home is where your thoughts find peace.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Zen Proverb</p>
