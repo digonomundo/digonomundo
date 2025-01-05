@@ -35,8 +35,8 @@ else
     println("Continuarei tentando!")
 }
 ```
-## The Daily Quote
+### Phrase of the day
 
-<p>Always try to be a little kinder than necessary.</p>
+<p>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Jon Kabat-Zinn</p>
