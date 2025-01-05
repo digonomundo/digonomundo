@@ -37,6 +37,6 @@ else
 ```
 ## The Daily Quote
 
-<p>The most difficult times for many of us are the ones we give ourselves.</p>
+<p>Decide what your truth is. Then live it.</p>
 
-<p>- Pema Chodron</p>
+<p>- Kamal Ravikant</p>
