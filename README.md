@@ -37,6 +37,6 @@ else
 ```
 ## The Daily Quote
 
-<p>Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.</p>
+<p>Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.</p>
 
-<p>- Unknown</p>
+<p>- Criss Jami</p>
