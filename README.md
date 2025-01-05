@@ -35,8 +35,8 @@ else
     println("Continuarei tentando!")
 }
 ```
-### Phrase of the day
+### Phrase of the day:
 
-<p>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</p>
+<p>"There are no differences but differences of degree between different degrees of difference and no difference."</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- William James</p>
