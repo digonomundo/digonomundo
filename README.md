@@ -37,6 +37,6 @@ else
 ```
 ## The Daily Quote
 
-<p>Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.</p>
+<p>Always try to be a little kinder than necessary.</p>
 
-<p>- Criss Jami</p>
+<p>- James Matthew Barrie</p>
