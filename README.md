@@ -37,6 +37,6 @@ else
 ```
 ## The Daily Quote
 
-<p>Decide what your truth is. Then live it.</p>
+<p>Not all readers are leaders, but all leaders are readers.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Harry S. Truman</p>
