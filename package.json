@@ -11,7 +11,7 @@
     "url": "git+https://github.com/digonomundo/digonomundo.git"
   },
   "author": "Rodrigo Dias",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/digonomundo/digonomundo/issues"
   },
