@@ -37,6 +37,6 @@ else
 ```
 ## The Daily Quote
 
-<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
+<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Roy T. Bennett</p>
