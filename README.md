@@ -37,6 +37,6 @@ else
 ```
 ## The Daily Quote
 
-<p>Never waste a minute of your precious life thinking about people you don't like.</p>
+<p>The man who does not value himself, cannot value anything or anyone.</p>
 
-<p>- Celestine Chua</p>
+<p>- Ayn Rand</p>
