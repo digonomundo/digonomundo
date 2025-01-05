@@ -37,6 +37,6 @@ else
 ```
 ## The Daily Quote
 
-<p>Your home is where your thoughts find peace.</p>
+<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
 
-<p>- Zen Proverb</p>
+<p>- Nelson Mandela</p>
