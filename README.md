@@ -37,6 +37,6 @@ else
 ```
 ## The Daily Quote
 
-<p>{office_quote}</p>
+<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
 
-<p>{office_character}</p>
+<p>- Nikola Tesla</p>
