@@ -37,6 +37,6 @@ else
 ```
 ## The Daily Quote
 
-<p>The man who does not value himself, cannot value anything or anyone.</p>
+<p>Not all those who wander are lost.</p>
 
-<p>- Ayn Rand</p>
+<p>- J.R.R. Tolkien</p>
