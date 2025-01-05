@@ -1,8 +1,7 @@
 name: Dynamic README injection
 on:
-  schedule: # Roda o workflow automaticamete
-    - cron: "*/3 * * * *" # Essa bomba faz executar todo dia 00:00, no horario de brasília (testando a cada 3 minutos)
-
+  schedule:
+    - cron: "*/5 * * * *"  # Executa a cada 5 minutos para testes
   workflow_dispatch:
 jobs:
   get-office-quotes:
@@ -31,3 +30,5 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+# Adicionado comentário para forçar atualização do workflow
