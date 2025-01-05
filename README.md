@@ -37,6 +37,6 @@ else
 ```
 ## The Daily Quote
 
-<p>Not all those who wander are lost.</p>
+<p>The most difficult times for many of us are the ones we give ourselves.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Pema Chodron</p>
