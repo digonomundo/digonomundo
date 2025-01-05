@@ -35,8 +35,8 @@ else
     println("Continuarei tentando!")
 }
 ```
-### The Daily Quote
+## The Daily Quote
 
-<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
+<p>Never waste a minute of your precious life thinking about people you don't like.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Celestine Chua</p>
