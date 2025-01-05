@@ -37,6 +37,6 @@ else
 ```
 ### Phrase of the day:
 
-<p>"There are no differences but differences of degree between different degrees of difference and no difference."</p>
+<p>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</p>
 
-<p>- William James</p>
+<p>- John D. Rockefeller</p>
