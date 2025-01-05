@@ -1,7 +1,7 @@
 name: Dynamic README injection
 on:
   schedule:
-    - cron: "*/5 * * * *"  # Executa a cada 5 minutos para testes
+    - cron: "0 * * * *"  # Executa a cada 1 hora para testes
   workflow_dispatch:
 jobs:
   get-office-quotes:
