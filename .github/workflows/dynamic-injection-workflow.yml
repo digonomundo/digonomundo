@@ -1,7 +1,7 @@
 name: Dynamic README injection
 on:
   schedule: # Roda o workflow automaticamete
-    - cron: "30 * * * *" # Essa bomba faz executar todo dia 00:00, no horario de brasília (testando no início da hora)
+    - cron: "* * * * *" # Essa bomba faz executar todo dia 00:00, no horario de brasília (testando a cada minuto)
 
   workflow_dispatch:
 jobs:
