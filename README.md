@@ -37,6 +37,6 @@ else
 ```
 ### Phrase of the day:
 
-<p>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</p>
+<p>"Don't be afraid that you do not know something. Be afraid of not learning about it."</p>
 
-<p>- John D. Rockefeller</p>
+<p>- Zen Proverb</p>
