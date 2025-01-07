@@ -37,6 +37,6 @@ else
 ```
 ### Phrase of the day:
 
-<p>"Don't be afraid that you do not know something. Be afraid of not learning about it."</p>
+<p>"The way to get started is to quit talking and begin doing."</p>
 
-<p>- Zen Proverb</p>
+<p>- Walt Disney</p>
