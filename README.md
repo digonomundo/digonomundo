@@ -37,6 +37,6 @@ else
 ```
 ### Phrase of the day:
 
-<p>"The way to get started is to quit talking and begin doing."</p>
+<p>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</p>
 
-<p>- Walt Disney</p>
+<p>- Steve Maraboli</p>
