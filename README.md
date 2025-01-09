@@ -37,6 +37,6 @@ else
 ```
 ### Phrase of the day:
 
-<p>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</p>
+<p>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  "</p>
 
-<p>- Steve Maraboli</p>
+<p>- Wayne Dyer</p>
