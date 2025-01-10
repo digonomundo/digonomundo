@@ -37,6 +37,6 @@ else
 ```
 ### Phrase of the day:
 
-<p>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  "</p>
+<p>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</p>
 
-<p>- Wayne Dyer</p>
+<p>- Andrew Carnegie</p>
