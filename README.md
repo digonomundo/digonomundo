@@ -37,6 +37,6 @@ else
 ```
 ### Phrase of the day:
 
-<p>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</p>
+<p>"To do great work one must be very idle as well as very industrious."</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Samuel Butler</p>
