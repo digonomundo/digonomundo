@@ -37,6 +37,6 @@ else
 ```
 ### Phrase of the day:
 
-<p>"To do great work one must be very idle as well as very industrious."</p>
+<p>"The time is now, the place is here. Stay in the present."</p>
 
-<p>- Samuel Butler</p>
+<p>- Dan Millman</p>
