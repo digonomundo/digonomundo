@@ -37,6 +37,6 @@ else
 ```
 ### Phrase of the day:
 
-<p>"The time is now, the place is here. Stay in the present."</p>
+<p>"Take interest and even delight in doing the small things well."</p>
 
-<p>- Dan Millman</p>
+<p>- Jim Rohn</p>
