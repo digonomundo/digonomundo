@@ -37,6 +37,6 @@ else
 ```
 ### Phrase of the day:
 
-<p>"Take interest and even delight in doing the small things well."</p>
+<p>"Simplicity is the glory of expression."</p>
 
-<p>- Jim Rohn</p>
+<p>- Walt Whitman</p>
