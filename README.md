@@ -37,6 +37,6 @@ else
 ```
 ### Quote of the day:
 
-<p>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</p>
+<p>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</p>
 
-<p>- Aristotle</p>
+<p>- Buddha</p>
