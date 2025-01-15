@@ -35,8 +35,8 @@ else
     println("Continuarei tentando!")
 }
 ```
-### Phrase of the day:
+### Quote of the day:
 
-<p>"Simplicity is the glory of expression."</p>
+<p>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</p>
 
-<p>- Walt Whitman</p>
+<p>- Aristotle</p>
