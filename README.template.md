@@ -35,7 +35,7 @@ else
     println("Continuarei tentando!")
 }
 ```
-### Phrase of the day:
+### Quote of the day:
 
 <p>"{office_quote}"</p>
 
