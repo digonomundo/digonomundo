@@ -37,6 +37,6 @@ else
 ```
 ### Quote of the day:
 
-<p>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</p>
+<p>"This is the most simple and basic component of life: our struggles determine our successes."</p>
 
-<p>- Buddha</p>
+<p>- Mark Manson</p>
