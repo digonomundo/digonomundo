@@ -37,6 +37,6 @@ else
 ```
 ### Quote of the day:
 
-<p>"This is the most simple and basic component of life: our struggles determine our successes."</p>
+<p>"The truth is rarely pure and never simple. "</p>
 
-<p>- Mark Manson</p>
+<p>- Oscar Wilde</p>
