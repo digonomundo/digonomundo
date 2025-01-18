@@ -37,6 +37,6 @@ else
 ```
 ### Quote of the day:
 
-<p>"The truth is rarely pure and never simple. "</p>
+<p>"Character is doing what you don't want to do but know you should do."</p>
 
-<p>- Oscar Wilde</p>
+<p>- Joyce Meyer</p>
