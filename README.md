@@ -37,6 +37,6 @@ else
 ```
 ### Quote of the day:
 
-<p>"Character is doing what you don't want to do but know you should do."</p>
+<p>"You must be willing to do what others won't do, to have what others won't have."</p>
 
-<p>- Joyce Meyer</p>
+<p>- Les Brown</p>
