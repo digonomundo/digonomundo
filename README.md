@@ -37,6 +37,6 @@ else
 ```
 ### Quote of the day:
 
-<p>"You must be willing to do what others won't do, to have what others won't have."</p>
+<p>"Riches don't make a man rich, they only make him busier."</p>
 
-<p>- Les Brown</p>
+<p>- Christopher Columbus</p>
