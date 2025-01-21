@@ -37,6 +37,6 @@ else
 ```
 ### Quote of the day:
 
-<p>"Riches don't make a man rich, they only make him busier."</p>
+<p>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</p>
 
-<p>- Christopher Columbus</p>
+<p>- Elbert Hubbard</p>
