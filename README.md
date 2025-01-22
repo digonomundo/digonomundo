@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The most difficult times for many of us are the ones we give ourselves."</p>
-> <p>- Pema Chodron</p>
+> <p>"The best way to predict your future is to create it."</p>
+> <p>- Abraham Lincoln</p>
