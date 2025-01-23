@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The best way to predict your future is to create it."</p>
-> <p>- Abraham Lincoln</p>
+> <p>"The quicker you let go of old cheese, the sooner you find new cheese."</p>
+> <p>- Spencer Johnson</p>
