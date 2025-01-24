@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The quicker you let go of old cheese, the sooner you find new cheese."</p>
-> <p>- Spencer Johnson</p>
+> <p>"Don't think money does everything or you are going to end up doing everything for money."</p>
+> <p>- Voltaire</p>
