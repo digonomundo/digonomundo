@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Don't think money does everything or you are going to end up doing everything for money."</p>
-> <p>- Voltaire</p>
+> <p>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."</p>
+> <p>- Kahlil Gibran</p>
