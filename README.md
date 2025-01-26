@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."</p>
-> <p>- Kahlil Gibran</p>
+> <p>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</p>
+> <p>- Confucius</p>
