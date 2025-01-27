@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</p>
-> <p>- Confucius</p>
+> <p>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</p>
+> <p>- Winston Churchill</p>
