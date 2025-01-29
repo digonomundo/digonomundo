@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"A warrior does not give up what he loves, he finds the love in what he does."</p>
-> <p>- Dan Millman</p>
+> <p>"Work out your own salvation. Do not depend on others."</p>
+> <p>- Buddha</p>
