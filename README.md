@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Work out your own salvation. Do not depend on others."</p>
-> <p>- Buddha</p>
+> <p>"Do good, live in the most positive and joyful way possible every day."</p>
+> <p>- Roy T. Bennett</p>
