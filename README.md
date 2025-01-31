@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Do good, live in the most positive and joyful way possible every day."</p>
-> <p>- Roy T. Bennett</p>
+> <p>"Cherish forever what makes you unique, cuz you're really a yawn if it goes."</p>
+> <p>- Bette Midler</p>
