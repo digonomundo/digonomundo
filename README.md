@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Cherish forever what makes you unique, cuz you're really a yawn if it goes."</p>
-> <p>- Bette Midler</p>
+> <p>"When you judge another, you do not define them, you define yourself"</p>
+> <p>- Wayne Dyer</p>
