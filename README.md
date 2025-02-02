@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"When you judge another, you do not define them, you define yourself"</p>
-> <p>- Wayne Dyer</p>
+> <p>"Even if you persuade me, you won't persuade me."</p>
+> <p>- Aristophanes</p>
