@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Even if you persuade me, you won't persuade me."</p>
-> <p>- Aristophanes</p>
+> <p>"Your greatest asset is your earning ability. Your greatest resource is your time."</p>
+> <p>- Brian Tracy</p>
