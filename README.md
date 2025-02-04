@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Your greatest asset is your earning ability. Your greatest resource is your time."</p>
-> <p>- Brian Tracy</p>
+> <p>"If you're not making mistakes, then you're not doing anything."</p>
+> <p>- John Wooden</p>
