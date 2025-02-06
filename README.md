@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"We think too much and feel too little."</p>
-> <p>- Charlie Chaplin</p>
+> <p>"I will not walk backward in life."</p>
+> <p>- J.R.R. Tolkien</p>
