@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"I will not walk backward in life."</p>
-> <p>- J.R.R. Tolkien</p>
+> <p>"To every action there is always opposed an equal reaction."</p>
+> <p>- Isaac Newton</p>
