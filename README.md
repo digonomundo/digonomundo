@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"To every action there is always opposed an equal reaction."</p>
-> <p>- Isaac Newton</p>
+> <p>"Great acts are made up of small deeds."</p>
+> <p>- Lao Tzu</p>
