@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Great acts are made up of small deeds."</p>
-> <p>- Lao Tzu</p>
+> <p>"Arise, slay thy enemies, enjoy a prosperous kingdom."</p>
+> <p>- Bhagavad Gita</p>
