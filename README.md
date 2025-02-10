@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Arise, slay thy enemies, enjoy a prosperous kingdom."</p>
-> <p>- Bhagavad Gita</p>
+> <p>"The man who removes a mountain begins by carrying away small stones."</p>
+> <p>- William Faulkner</p>
