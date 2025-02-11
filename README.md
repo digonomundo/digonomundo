@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The man who removes a mountain begins by carrying away small stones."</p>
-> <p>- William Faulkner</p>
+> <p>"Stress happens when the mind resists what is."</p>
+> <p>- Dan Millman</p>
