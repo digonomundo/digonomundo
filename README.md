@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Stress happens when the mind resists what is."</p>
-> <p>- Dan Millman</p>
+> <p>"Live in the sunshine, swim the sea, drink the wild air."</p>
+> <p>- Ralph Waldo Emerson</p>
