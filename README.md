@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"If I have seen further than others, it is by standing upon the shoulders of giants."</p>
-> <p>- Isaac Newton</p>
+> <p>"Happiness is only real, when shared."</p>
+> <p>- Christopher McCandless</p>
