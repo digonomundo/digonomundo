@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Happiness is only real, when shared."</p>
-> <p>- Christopher McCandless</p>
+> <p>"Change happens when the pain of holding on becomes greater than the fear of letting go."</p>
+> <p>- Spencer Johnson</p>
