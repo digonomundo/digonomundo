@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Change happens when the pain of holding on becomes greater than the fear of letting go."</p>
-> <p>- Spencer Johnson</p>
+> <p>"Adventure is worthwhile in itself."</p>
+> <p>- Amelia Earhart</p>
