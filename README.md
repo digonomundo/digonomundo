@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Adventure is worthwhile in itself."</p>
-> <p>- Amelia Earhart</p>
+> <p>"Never close your lips to those whom you have already opened your heart."</p>
+> <p>- Charles Dickens</p>
