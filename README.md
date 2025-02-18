@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Never close your lips to those whom you have already opened your heart."</p>
-> <p>- Charles Dickens</p>
+> <p>"You are your best thing."</p>
+> <p>- Toni Morrison</p>
