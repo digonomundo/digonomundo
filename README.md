@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"You are your best thing."</p>
-> <p>- Toni Morrison</p>
+> <p>"Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing."</p>
+> <p>- Brian Tracy</p>
