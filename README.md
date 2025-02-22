@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Time flies whether you are having fun or not."</p>
-> <p>- Mary Engelbreit</p>
+> <p>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting."</p>
+> <p>- Bhagavad Gita</p>
