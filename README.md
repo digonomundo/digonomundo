@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting."</p>
-> <p>- Bhagavad Gita</p>
+> <p>"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."</p>
+> <p>- Jonathan Swift</p>
