@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The health of nations is more important than the wealth of nations."</p>
-> <p>- Will Rogers</p>
+> <p>"Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances."</p>
+> <p>- Thomas Jefferson</p>
