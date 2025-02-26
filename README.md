@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances."</p>
-> <p>- Thomas Jefferson</p>
+> <p>"Life is much more successfully looked at from a single window."</p>
+> <p>- F. Scott Fitzgerald</p>
