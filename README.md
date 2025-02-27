@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Life is much more successfully looked at from a single window."</p>
-> <p>- F. Scott Fitzgerald</p>
+> <p>"Man must use what he has, not hope for what is not."</p>
+> <p>- G.I. Gurdjieff</p>
