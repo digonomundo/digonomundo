@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Man must use what he has, not hope for what is not."</p>
-> <p>- G.I. Gurdjieff</p>
+> <p>"Quality is not an act, it is a habit."</p>
+> <p>- Aristotle</p>
