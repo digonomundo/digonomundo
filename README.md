@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Quality is not an act, it is a habit."</p>
-> <p>- Aristotle</p>
+> <p>"If you want to make God laugh, tell him about your plans. "</p>
+> <p>- Woody Allen</p>
