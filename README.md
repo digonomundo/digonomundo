@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"If you want to make God laugh, tell him about your plans. "</p>
-> <p>- Woody Allen</p>
+> <p>"Live in the sunshine, swim the sea, drink the wild air."</p>
+> <p>- Ralph Waldo Emerson</p>
