@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Live in the sunshine, swim the sea, drink the wild air."</p>
-> <p>- Ralph Waldo Emerson</p>
+> <p>"Never let the things you can't do stop you from doing what you can."</p>
+> <p>- Ronald Reagan</p>
