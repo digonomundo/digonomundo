@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Never let the things you can't do stop you from doing what you can."</p>
-> <p>- Ronald Reagan</p>
+> <p>"If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else."</p>
+> <p>- Simon Sinek</p>
