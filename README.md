@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else."</p>
-> <p>- Simon Sinek</p>
+> <p>"We must learn to live together as brothers or perish together as fools."</p>
+> <p>- Martin Luther King, Jr.</p>
