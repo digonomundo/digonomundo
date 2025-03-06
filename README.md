@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"We must learn to live together as brothers or perish together as fools."</p>
-> <p>- Martin Luther King, Jr.</p>
+> <p>"Every experience is a lesson. Every loss is a gain."</p>
+> <p>- Sathya Sai Baba</p>
