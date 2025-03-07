@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Every experience is a lesson. Every loss is a gain."</p>
-> <p>- Sathya Sai Baba</p>
+> <p>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</p>
+> <p>- Herman Melville</p>
