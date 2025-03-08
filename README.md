@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</p>
-> <p>- Herman Melville</p>
+> <p>"Goodness is the only investment that never fails."</p>
+> <p>- Henry David Thoreau</p>
