@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Goodness is the only investment that never fails."</p>
-> <p>- Henry David Thoreau</p>
+> <p>"The man who removes a mountain begins by carrying away small stones."</p>
+> <p>- William Faulkner</p>
