@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The man who removes a mountain begins by carrying away small stones."</p>
-> <p>- William Faulkner</p>
+> <p>"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."</p>
+> <p>- Andrew Carnegie</p>
