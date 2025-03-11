@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."</p>
-> <p>- Andrew Carnegie</p>
+> <p>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</p>
+> <p>- Robert Collier</p>
