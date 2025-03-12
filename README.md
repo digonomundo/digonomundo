@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</p>
-> <p>- Robert Collier</p>
+> <p>"In matters of style, swim with the current; in matters of principle, stand like a rock."</p>
+> <p>- Thomas Jefferson</p>
