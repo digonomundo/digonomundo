@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"In matters of style, swim with the current; in matters of principle, stand like a rock."</p>
-> <p>- Thomas Jefferson</p>
+> <p>"Enjoy every minute of life. Never second-guess life."</p>
+> <p>- Michael Jordan</p>
