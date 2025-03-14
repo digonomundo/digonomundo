@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Enjoy every minute of life. Never second-guess life."</p>
-> <p>- Michael Jordan</p>
+> <p>"Decide upon your major definite purpose in life and then organize all your activities around it."</p>
+> <p>- Brian Tracy</p>
