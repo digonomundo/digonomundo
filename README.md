@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Decide upon your major definite purpose in life and then organize all your activities around it."</p>
-> <p>- Brian Tracy</p>
+> <p>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</p>
+> <p>- Thich Nhat Hanh</p>
