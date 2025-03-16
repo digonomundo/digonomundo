@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</p>
-> <p>- Thich Nhat Hanh</p>
+> <p>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</p>
+> <p>- Barack Obama</p>
