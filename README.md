@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</p>
-> <p>- Barack Obama</p>
+> <p>"Generosity is giving more than you can, and pride is taking less than you need."</p>
+> <p>- Kahlil Gibran</p>
