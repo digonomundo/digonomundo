@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Generosity is giving more than you can, and pride is taking less than you need."</p>
-> <p>- Kahlil Gibran</p>
+> <p>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</p>
+> <p>- Amelia Earhart</p>
