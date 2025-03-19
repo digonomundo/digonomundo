@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</p>
-> <p>- Amelia Earhart</p>
+> <p>"We need a backbone, not a wishbone."</p>
+> <p>- Joyce Meyer</p>
