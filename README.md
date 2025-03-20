@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"We need a backbone, not a wishbone."</p>
-> <p>- Joyce Meyer</p>
+> <p>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</p>
+> <p>- Winston Churchill</p>
