@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Few things are more deceptive than memories."</p>
-> <p>- Carlos Ruiz Zafon</p>
+> <p>"He who can, does."</p>
+> <p>- George Bernard Shaw</p>
