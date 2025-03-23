@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"He who can, does."</p>
-> <p>- George Bernard Shaw</p>
+> <p>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</p>
+> <p>- Sonia Ricotti</p>
