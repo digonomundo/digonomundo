@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</p>
-> <p>- Sonia Ricotti</p>
+> <p>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</p>
+> <p>- Aristotle</p>
