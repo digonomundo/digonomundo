@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</p>
-> <p>- Aristotle</p>
+> <p>"Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. "</p>
+> <p>- Lao Tzu</p>
