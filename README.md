@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</p>
-> <p>- Barack Obama</p>
+> <p>"Dream big and dare to fail."</p>
+> <p>- Norman Vaughan</p>
