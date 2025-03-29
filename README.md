@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Dream big and dare to fail."</p>
-> <p>- Norman Vaughan</p>
+> <p>"A needle is not sharp at both ends. "</p>
+> <p>- Chinese Proverb</p>
