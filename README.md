@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"A needle is not sharp at both ends. "</p>
-> <p>- Chinese Proverb</p>
+> <p>"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."</p>
+> <p>- Sonia Ricotti</p>
