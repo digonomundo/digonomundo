@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."</p>
-> <p>- Sonia Ricotti</p>
+> <p>"Not all of us can do great things. But we can do small things with great love."</p>
+> <p>- Mother Teresa</p>
