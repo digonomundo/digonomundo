@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Not all of us can do great things. But we can do small things with great love."</p>
-> <p>- Mother Teresa</p>
+> <p>"Human happiness and moral duty are inseparably connected. "</p>
+> <p>- George Washington</p>
