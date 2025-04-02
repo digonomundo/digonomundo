@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Human happiness and moral duty are inseparably connected. "</p>
-> <p>- George Washington</p>
+> <p>"The dreamers are the saviors of the worlds."</p>
+> <p>- James Allen</p>
