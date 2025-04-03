@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The dreamers are the saviors of the worlds."</p>
-> <p>- James Allen</p>
+> <p>"The past has no power over the present moment. "</p>
+> <p>- Eckhart Tolle</p>
