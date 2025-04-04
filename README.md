@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The past has no power over the present moment. "</p>
-> <p>- Eckhart Tolle</p>
+> <p>"Note that this journey is uniquely yours, no one elses. So the path has to be your own."</p>
+> <p>- Jon Kabat-Zinn</p>
