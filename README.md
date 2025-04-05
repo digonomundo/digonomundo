@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Note that this journey is uniquely yours, no one elses. So the path has to be your own."</p>
-> <p>- Jon Kabat-Zinn</p>
+> <p>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</p>
+> <p>- Winston Churchill</p>
