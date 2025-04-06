@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</p>
-> <p>- Winston Churchill</p>
+> <p>"Go as far as you can see and you will see further.  "</p>
+> <p>- Zig Ziglar</p>
