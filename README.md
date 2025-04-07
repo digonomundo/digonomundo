@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Go as far as you can see and you will see further.  "</p>
-> <p>- Zig Ziglar</p>
+> <p>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</p>
+> <p>- Sigmund Freud</p>
