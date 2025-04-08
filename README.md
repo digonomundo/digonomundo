@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</p>
-> <p>- Sigmund Freud</p>
+> <p>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</p>
+> <p>- Bob Marley</p>
