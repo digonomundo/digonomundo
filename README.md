@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</p>
-> <p>- Bob Marley</p>
+> <p>"Loving thoughts and actions are clearly beneficial for our physical and mental health."</p>
+> <p>- Dalai Lama</p>
