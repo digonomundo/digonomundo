@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Loving thoughts and actions are clearly beneficial for our physical and mental health."</p>
-> <p>- Dalai Lama</p>
+> <p>"Successful people tend to become more successful because they are always thinking about their successes."</p>
+> <p>- Brian Tracy</p>
