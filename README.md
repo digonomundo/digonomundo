@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Successful people tend to become more successful because they are always thinking about their successes."</p>
-> <p>- Brian Tracy</p>
+> <p>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."</p>
+> <p>- Carl Bard</p>
