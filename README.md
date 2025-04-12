@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."</p>
-> <p>- Carl Bard</p>
+> <p>"Big people don't make people feel small."</p>
+> <p>- Robin Sharma</p>
