@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Big people don't make people feel small."</p>
-> <p>- Robin Sharma</p>
+> <p>"Science can flourish only in an atmosphere of free speech. "</p>
+> <p>- Albert Einstein</p>
