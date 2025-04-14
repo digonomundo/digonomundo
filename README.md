@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Science can flourish only in an atmosphere of free speech. "</p>
-> <p>- Albert Einstein</p>
+> <p>"Life is ours to be spent, not to be saved. "</p>
+> <p>- D. H. Lawrence</p>
