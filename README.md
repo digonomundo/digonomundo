@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Life is ours to be spent, not to be saved. "</p>
-> <p>- D. H. Lawrence</p>
+> <p>"It is difficult to free fools from the chains they revere. "</p>
+> <p>- Voltaire</p>
