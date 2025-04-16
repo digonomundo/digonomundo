@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"It is difficult to free fools from the chains they revere. "</p>
-> <p>- Voltaire</p>
+> <p>"The one who boasts does so only out of a feeling of inferiority."</p>
+> <p>- Alfred Adler</p>
