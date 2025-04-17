@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The one who boasts does so only out of a feeling of inferiority."</p>
-> <p>- Alfred Adler</p>
+> <p>"A mistake is only an error, it becomes a mistake when you fail to correct it."</p>
+> <p>- John Lennon</p>
