@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"A mistake is only an error, it becomes a mistake when you fail to correct it."</p>
-> <p>- John Lennon</p>
+> <p>"Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it."</p>
+> <p>- Gurbaksh Chahal</p>
