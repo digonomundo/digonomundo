@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it."</p>
-> <p>- Gurbaksh Chahal</p>
+> <p>"By changing nothing, nothing changes."</p>
+> <p>- Celestine Chua</p>
