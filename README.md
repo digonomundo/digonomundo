@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"By changing nothing, nothing changes."</p>
-> <p>- Celestine Chua</p>
+> <p>"Failure is feedback. Learn from it and move on."</p>
+> <p>- Jack Butcher</p>
