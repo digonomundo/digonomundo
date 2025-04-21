@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Failure is feedback. Learn from it and move on."</p>
-> <p>- Jack Butcher</p>
+> <p>"Successful people ask better questions, and as a result, they get better answers."</p>
+> <p>- Tony Robbins</p>
