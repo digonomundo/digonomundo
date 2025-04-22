@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Successful people ask better questions, and as a result, they get better answers."</p>
-> <p>- Tony Robbins</p>
+> <p>"Everyday you can take a tiny step in the right direction."</p>
+> <p>- Unknown</p>
