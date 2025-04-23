@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Everyday you can take a tiny step in the right direction."</p>
-> <p>- Unknown</p>
+> <p>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</p>
+> <p>- Benjamin Franklin</p>
