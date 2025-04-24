@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</p>
-> <p>- Benjamin Franklin</p>
+> <p>"If I love myself I love you. If I love you I love myself."</p>
+> <p>- Rumi</p>
