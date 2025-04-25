@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"If I love myself I love you. If I love you I love myself."</p>
-> <p>- Rumi</p>
+> <p>"Only I can change my life. No one can do it for me."</p>
+> <p>- Carol Burnett</p>
