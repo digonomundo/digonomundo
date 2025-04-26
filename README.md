@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Only I can change my life. No one can do it for me."</p>
-> <p>- Carol Burnett</p>
+> <p>"The only person you should try to be better than is the person you were yesterday."</p>
+> <p>- Brian Tracy</p>
