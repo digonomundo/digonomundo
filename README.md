@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The only person you should try to be better than is the person you were yesterday."</p>
-> <p>- Brian Tracy</p>
+> <p>"Charms strike the sight, but merit wins the soul."</p>
+> <p>- Alexander Pope</p>
