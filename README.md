@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Charms strike the sight, but merit wins the soul."</p>
-> <p>- Alexander Pope</p>
+> <p>"What you resist, persists."</p>
+> <p>- Carl Jung</p>
