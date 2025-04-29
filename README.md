@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"What you resist, persists."</p>
-> <p>- Carl Jung</p>
+> <p>"We must have strong minds, ready to accept facts as they are."</p>
+> <p>- Harry S. Truman</p>
