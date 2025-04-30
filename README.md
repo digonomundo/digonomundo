@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"We must have strong minds, ready to accept facts as they are."</p>
-> <p>- Harry S. Truman</p>
+> <p>"Stop comparing yourself to others and focus on your own improvement."</p>
+> <p>- Lolly Daskal</p>
