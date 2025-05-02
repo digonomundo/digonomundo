@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"There is no one giant step that does it. It's a lot of little steps."</p>
-> <p>- Peter A. Cohen</p>
+> <p>"Dream big and dare to fail."</p>
+> <p>- Norman Vaughan</p>
