@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Dream big and dare to fail."</p>
-> <p>- Norman Vaughan</p>
+> <p>"The pain of parting is nothing to the joy of meeting again."</p>
+> <p>- Charles Dickens</p>
