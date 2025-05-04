@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The pain of parting is nothing to the joy of meeting again."</p>
-> <p>- Charles Dickens</p>
+> <p>"You must find the place inside yourself where nothing is impossible."</p>
+> <p>- Deepak Chopra</p>
