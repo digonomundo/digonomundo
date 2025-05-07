@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Perplexity is the beginning of knowledge."</p>
-> <p>- Kahlil Gibran</p>
+> <p>"Older men declare war. But it is youth that must fight and die."</p>
+> <p>- Herbert Hoover</p>
