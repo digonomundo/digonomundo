@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Older men declare war. But it is youth that must fight and die."</p>
-> <p>- Herbert Hoover</p>
+> <p>"The most courageous act is still to think for yourself. Aloud."</p>
+> <p>- Coco Chanel</p>
