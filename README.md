@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The most courageous act is still to think for yourself. Aloud."</p>
-> <p>- Coco Chanel</p>
+> <p>"No matter how tall the mountain is, it cannot block the sun."</p>
+> <p>- Chinese Proverb</p>
