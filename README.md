@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Fiction is the truth inside the lie."</p>
-> <p>- Stephen King</p>
+> <p>"Difficult and meaningful will always bring more satisfaction than easy and meaningless."</p>
+> <p>- Maxime Lagace</p>
