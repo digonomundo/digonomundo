@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Difficult and meaningful will always bring more satisfaction than easy and meaningless."</p>
-> <p>- Maxime Lagace</p>
+> <p>"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."</p>
+> <p>- Henry Ward Beecher</p>
