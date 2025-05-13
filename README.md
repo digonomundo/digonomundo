@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."</p>
-> <p>- Henry Ward Beecher</p>
+> <p>"The measure of who we are is what we do with what we have."</p>
+> <p>- Vince Lombardi</p>
