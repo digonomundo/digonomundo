@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The measure of who we are is what we do with what we have."</p>
-> <p>- Vince Lombardi</p>
+> <p>"Manifest plainness, embrace simplicity, reduce selfishness, have few desires."</p>
+> <p>- Lao Tzu</p>
