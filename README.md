@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Manifest plainness, embrace simplicity, reduce selfishness, have few desires."</p>
-> <p>- Lao Tzu</p>
+> <p>"He who is untrue to his own cause cannot command the respect of others."</p>
+> <p>- Albert Einstein</p>
