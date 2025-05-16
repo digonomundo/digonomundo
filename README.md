@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"He who is untrue to his own cause cannot command the respect of others."</p>
-> <p>- Albert Einstein</p>
+> <p>"Never was anything great achieved without danger."</p>
+> <p>- Niccolo Machiavelli</p>
