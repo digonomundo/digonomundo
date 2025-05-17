@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Never was anything great achieved without danger."</p>
-> <p>- Niccolo Machiavelli</p>
+> <p>"The greater the impact you want to make, the greater your influence needs to be."</p>
+> <p>- Lolly Daskal</p>
