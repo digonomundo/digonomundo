@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The greater the impact you want to make, the greater your influence needs to be."</p>
-> <p>- Lolly Daskal</p>
+> <p>"You cannot push anyone up a ladder unless he is willing to climb a little himself."</p>
+> <p>- Andrew Carnegie</p>
