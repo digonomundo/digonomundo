@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"You cannot push anyone up a ladder unless he is willing to climb a little himself."</p>
-> <p>- Andrew Carnegie</p>
+> <p>"Never waste a minute of your precious life thinking about people you don't like."</p>
+> <p>- Celestine Chua</p>
