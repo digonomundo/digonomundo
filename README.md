@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Never waste a minute of your precious life thinking about people you don't like."</p>
-> <p>- Celestine Chua</p>
+> <p>"Those who are enlightened never stop forging themselves."</p>
+> <p>- Morihei Ueshiba</p>
