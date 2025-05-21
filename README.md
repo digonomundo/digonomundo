@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Those who are enlightened never stop forging themselves."</p>
-> <p>- Morihei Ueshiba</p>
+> <p>"The person who never made a mistake never tried anything new."</p>
+> <p>- Albert Einstein</p>
