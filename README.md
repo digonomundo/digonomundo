@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The person who never made a mistake never tried anything new."</p>
-> <p>- Albert Einstein</p>
+> <p>"It is easier to fight for one's principles than to live up to them. "</p>
+> <p>- Alfred Adler</p>
