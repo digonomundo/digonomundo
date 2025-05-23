@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"It is easier to fight for one's principles than to live up to them. "</p>
-> <p>- Alfred Adler</p>
+> <p>"I have lost friends, some by death...others by sheer inability to cross the street."</p>
+> <p>- Virginia Woolf</p>
