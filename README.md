@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"I have lost friends, some by death...others by sheer inability to cross the street."</p>
-> <p>- Virginia Woolf</p>
+> <p>"The hard path is often the right one. The river teaches more than the shore."</p>
+> <p>- Maxime Lagace</p>
