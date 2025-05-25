@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The hard path is often the right one. The river teaches more than the shore."</p>
-> <p>- Maxime Lagace</p>
+> <p>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</p>
+> <p>- Carl Jung</p>
