@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</p>
-> <p>- Carl Jung</p>
+> <p>"At every moment where language can't go, that's your mind."</p>
+> <p>- Bodhidharma</p>
