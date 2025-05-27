@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"At every moment where language can't go, that's your mind."</p>
-> <p>- Bodhidharma</p>
+> <p>"A diamond is a piece of charcoal that handled stress exceptionally well."</p>
+> <p>- Unknown</p>
