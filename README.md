@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"A diamond is a piece of charcoal that handled stress exceptionally well."</p>
-> <p>- Unknown</p>
+> <p>"Take interest and even delight in doing the small things well."</p>
+> <p>- Jim Rohn</p>
