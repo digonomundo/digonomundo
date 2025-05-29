@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Take interest and even delight in doing the small things well."</p>
-> <p>- Jim Rohn</p>
+> <p>"Realize deeply that the present moment is all you ever have. "</p>
+> <p>- Eckhart Tolle</p>
