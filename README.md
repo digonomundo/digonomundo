@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Realize deeply that the present moment is all you ever have. "</p>
-> <p>- Eckhart Tolle</p>
+> <p>"The only way to 'find out if it will work out' is to do it."</p>
+> <p>- Simon Sinek</p>
