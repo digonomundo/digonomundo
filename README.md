@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The only way to 'find out if it will work out' is to do it."</p>
-> <p>- Simon Sinek</p>
+> <p>"Success and failure come and go, but don't let them define you. It's who you are that matters."</p>
+> <p>- Kamal Ravikant</p>
