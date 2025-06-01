@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Success and failure come and go, but don't let them define you. It's who you are that matters."</p>
-> <p>- Kamal Ravikant</p>
+> <p>"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."</p>
+> <p>- Heraclitus</p>
