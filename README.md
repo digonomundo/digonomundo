@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."</p>
-> <p>- Heraclitus</p>
+> <p>"To the mind that is still, the whole universe surrenders."</p>
+> <p>- Lao Tzu</p>
