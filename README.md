@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"To the mind that is still, the whole universe surrenders."</p>
-> <p>- Lao Tzu</p>
+> <p>"There is no sadder sight than a young pessimist."</p>
+> <p>- Mark Twain</p>
