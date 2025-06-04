@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"There is no sadder sight than a young pessimist."</p>
-> <p>- Mark Twain</p>
+> <p>"A dream you dream alone is only a dream. A dream you dream together is reality."</p>
+> <p>- Yoko Ono</p>
