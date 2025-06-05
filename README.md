@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"A dream you dream alone is only a dream. A dream you dream together is reality."</p>
-> <p>- Yoko Ono</p>
+> <p>"Everyday is a second chance."</p>
+> <p>- Unknown</p>
