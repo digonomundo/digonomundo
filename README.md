@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Everyday is a second chance."</p>
-> <p>- Unknown</p>
+> <p>"Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections."</p>
+> <p>- Bob Marley</p>
