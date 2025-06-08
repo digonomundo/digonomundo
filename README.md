@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"A moving door hinge never corrodes. Flowing water never grows stagnant."</p>
-> <p>- Ming-Dao Deng</p>
+> <p>"If you chase two rabbits, you catch none."</p>
+> <p>- Confucius</p>
