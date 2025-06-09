@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"If you chase two rabbits, you catch none."</p>
-> <p>- Confucius</p>
+> <p>"The whole is greater than the sum of its parts."</p>
+> <p>- Aristotle</p>
