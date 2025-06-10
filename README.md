@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The whole is greater than the sum of its parts."</p>
-> <p>- Aristotle</p>
+> <p>"To seek greatness is the only righteous vengeance."</p>
+> <p>- Criss Jami</p>
