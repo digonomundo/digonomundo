@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"To seek greatness is the only righteous vengeance."</p>
-> <p>- Criss Jami</p>
+> <p>"There is no sadder sight than a young pessimist."</p>
+> <p>- Mark Twain</p>
