@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"There is no sadder sight than a young pessimist."</p>
-> <p>- Mark Twain</p>
+> <p>"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."</p>
+> <p>- Martin Luther King, Jr.</p>
