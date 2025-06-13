@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."</p>
-> <p>- Martin Luther King, Jr.</p>
+> <p>"Happiness is the absence of the striving for happiness."</p>
+> <p>- Zhuangzi</p>
