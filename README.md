@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Happiness is the absence of the striving for happiness."</p>
-> <p>- Zhuangzi</p>
+> <p>"The price of inaction is far greater than the cost of making a mistake."</p>
+> <p>- Meister Eckhart</p>
