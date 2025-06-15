@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The price of inaction is far greater than the cost of making a mistake."</p>
-> <p>- Meister Eckhart</p>
+> <p>"We are always complaining that our days are few, and acting as though there would be no end of them.  "</p>
+> <p>- Seneca</p>
