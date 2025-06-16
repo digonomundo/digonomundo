@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"We are always complaining that our days are few, and acting as though there would be no end of them.  "</p>
-> <p>- Seneca</p>
+> <p>"It is better to fail in originality than to succeed in imitation."</p>
+> <p>- Herman Melville</p>
