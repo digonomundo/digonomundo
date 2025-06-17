@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"It is better to fail in originality than to succeed in imitation."</p>
-> <p>- Herman Melville</p>
+> <p>"Anything worth doing is worth doing slowly."</p>
+> <p>- Mae West</p>
