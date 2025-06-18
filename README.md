@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Anything worth doing is worth doing slowly."</p>
-> <p>- Mae West</p>
+> <p>"Imagination is the beginning of creation."</p>
+> <p>- George Bernard Shaw</p>
