@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Imagination is the beginning of creation."</p>
-> <p>- George Bernard Shaw</p>
+> <p>"I will not walk backward in life."</p>
+> <p>- J.R.R. Tolkien</p>
