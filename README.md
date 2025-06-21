@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."</p>
-> <p>- William Faulkner</p>
+> <p>"Successful people are not without problems. They're simply people who've learned to solve their problems."</p>
+> <p>- Earl Nightingale</p>
