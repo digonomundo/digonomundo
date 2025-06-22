@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Successful people are not without problems. They're simply people who've learned to solve their problems."</p>
-> <p>- Earl Nightingale</p>
+> <p>"An un-examined life is not worth living."</p>
+> <p>- Socrates</p>
