@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"An un-examined life is not worth living."</p>
-> <p>- Socrates</p>
+> <p>"Don't let the silly little dramas of each day get you down. For you are here to do great things."</p>
+> <p>- Ralph Marston</p>
