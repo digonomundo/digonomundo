@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Don't let the silly little dramas of each day get you down. For you are here to do great things."</p>
-> <p>- Ralph Marston</p>
+> <p>"Life is the dancer and you are the dance."</p>
+> <p>- Eckhart Tolle</p>
