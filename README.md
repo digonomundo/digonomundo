@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Life is the dancer and you are the dance."</p>
-> <p>- Eckhart Tolle</p>
+> <p>"Goodness is the only investment that never fails."</p>
+> <p>- Henry David Thoreau</p>
