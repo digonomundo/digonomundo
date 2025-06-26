@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Goodness is the only investment that never fails."</p>
-> <p>- Henry David Thoreau</p>
+> <p>"The power of man has grown in every sphere, except over himself."</p>
+> <p>- Winston Churchill</p>
