@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The power of man has grown in every sphere, except over himself."</p>
-> <p>- Winston Churchill</p>
+> <p>"Closing your eyes and listening to silence is self-care."</p>
+> <p>- Maxime Lagace</p>
