@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Closing your eyes and listening to silence is self-care."</p>
-> <p>- Maxime Lagace</p>
+> <p>"To be prepared is half the victory. "</p>
+> <p>- Miguel de Cervantes</p>
