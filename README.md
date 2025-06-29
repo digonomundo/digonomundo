@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"To be prepared is half the victory. "</p>
-> <p>- Miguel de Cervantes</p>
+> <p>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</p>
+> <p>- Kamal Ravikant</p>
