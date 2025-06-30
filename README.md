@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</p>
-> <p>- Kamal Ravikant</p>
+> <p>"It's not what we do once in a while that shapes our lives, but what we do consistently."</p>
+> <p>- Tony Robbins</p>
