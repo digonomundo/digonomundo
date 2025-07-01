@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"It's not what we do once in a while that shapes our lives, but what we do consistently."</p>
-> <p>- Tony Robbins</p>
+> <p>"A comfort zone is a beautiful place, but nothing ever grows there."</p>
+> <p>- Unknown</p>
