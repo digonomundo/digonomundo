@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"A comfort zone is a beautiful place, but nothing ever grows there."</p>
-> <p>- Unknown</p>
+> <p>"Learn to use your emotions to think, not think with your emotions."</p>
+> <p>- Robert Kiyosaki</p>
