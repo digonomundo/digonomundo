@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Learn to use your emotions to think, not think with your emotions."</p>
-> <p>- Robert Kiyosaki</p>
+> <p>"If you are going to achieve excellence in big things, you develop the habit in little matters."</p>
+> <p>- Colin Powell</p>
