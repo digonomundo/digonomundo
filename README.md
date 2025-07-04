@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"If you are going to achieve excellence in big things, you develop the habit in little matters."</p>
-> <p>- Colin Powell</p>
+> <p>"Wit is educated insolence."</p>
+> <p>- Aristotle</p>
