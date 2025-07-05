@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Wit is educated insolence."</p>
-> <p>- Aristotle</p>
+> <p>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing."</p>
+> <p>- George Bernard Shaw</p>
