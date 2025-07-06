@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing."</p>
-> <p>- George Bernard Shaw</p>
+> <p>"Time stays long enough for anyone who will use it."</p>
+> <p>- Leonardo da Vinci</p>
