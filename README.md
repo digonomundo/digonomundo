@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Time stays long enough for anyone who will use it."</p>
-> <p>- Leonardo da Vinci</p>
+> <p>"It is only depth of character that determines the profundity with which we face life."</p>
+> <p>- Ming-Dao Deng</p>
