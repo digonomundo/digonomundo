@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety."</p>
-> <p>- Sathya Sai Baba</p>
+> <p>"We take care of the future best by taking care of the present now."</p>
+> <p>- Jon Kabat-Zinn</p>
