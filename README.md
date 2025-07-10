@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"We take care of the future best by taking care of the present now."</p>
-> <p>- Jon Kabat-Zinn</p>
+> <p>"Your chances of success in any undertaking can always be measured by your belief in yourself."</p>
+> <p>- Robert Collier</p>
