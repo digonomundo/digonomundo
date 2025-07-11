@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Your chances of success in any undertaking can always be measured by your belief in yourself."</p>
-> <p>- Robert Collier</p>
+> <p>"Your gift is something that you can do innately better than anything else."</p>
+> <p>- Steve Harvey</p>
