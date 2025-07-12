@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Your gift is something that you can do innately better than anything else."</p>
-> <p>- Steve Harvey</p>
+> <p>"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."</p>
+> <p>- Charles Dickens</p>
