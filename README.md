@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."</p>
-> <p>- Charles Dickens</p>
+> <p>"Throw your heart over the fence and the rest will follow"</p>
+> <p>- Norman Vincent Peale</p>
