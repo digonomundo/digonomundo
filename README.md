@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Throw your heart over the fence and the rest will follow"</p>
-> <p>- Norman Vincent Peale</p>
+> <p>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</p>
+> <p>- David Brinkley</p>
