@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</p>
-> <p>- David Brinkley</p>
+> <p>"Either you choose to stay in the shallow end of the pool or you go out into the ocean."</p>
+> <p>- Christopher Reeve</p>
