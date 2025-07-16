@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Either you choose to stay in the shallow end of the pool or you go out into the ocean."</p>
-> <p>- Christopher Reeve</p>
+> <p>"To perceive is to suffer."</p>
+> <p>- Aristotle</p>
