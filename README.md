@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"To perceive is to suffer."</p>
-> <p>- Aristotle</p>
+> <p>"Success is the progressive realization of a worthy goal or ideal."</p>
+> <p>- Earl Nightingale</p>
