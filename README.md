@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Success is the progressive realization of a worthy goal or ideal."</p>
-> <p>- Earl Nightingale</p>
+> <p>"I don't ever give up. I'd have to be dead or completely incapacitated."</p>
+> <p>- Elon Musk</p>
