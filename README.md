@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"I don't ever give up. I'd have to be dead or completely incapacitated."</p>
-> <p>- Elon Musk</p>
+> <p>"You have as much laughter as you have faith."</p>
+> <p>- Martin Luther</p>
