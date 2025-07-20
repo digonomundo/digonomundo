@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"You have as much laughter as you have faith."</p>
-> <p>- Martin Luther</p>
+> <p>"Trust, but verify."</p>
+> <p>- Ronald Reagan</p>
