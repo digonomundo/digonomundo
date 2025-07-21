@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Trust, but verify."</p>
-> <p>- Ronald Reagan</p>
+> <p>"Only in the agony of parting do we look into the depths of love."</p>
+> <p>- George Eliot</p>
