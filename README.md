@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success."</p>
-> <p>- Robert Kiyosaki</p>
+> <p>"The right thing to do and the hard thing to do are usually the same."</p>
+> <p>- Steve Maraboli</p>
