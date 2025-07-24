@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The right thing to do and the hard thing to do are usually the same."</p>
-> <p>- Steve Maraboli</p>
+> <p>"Simplicity is a difficult thing to achieve.  "</p>
+> <p>- Charlie Chaplin</p>
