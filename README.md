@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Simplicity is a difficult thing to achieve.  "</p>
-> <p>- Charlie Chaplin</p>
+> <p>"It's the unknown we fear when we look upon death and darkness, nothing more."</p>
+> <p>- Albus Dumbledore</p>
