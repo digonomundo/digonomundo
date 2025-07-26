@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"It's the unknown we fear when we look upon death and darkness, nothing more."</p>
-> <p>- Albus Dumbledore</p>
+> <p>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</p>
+> <p>- Alexandre Dumas</p>
