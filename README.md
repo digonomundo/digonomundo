@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</p>
-> <p>- Alexandre Dumas</p>
+> <p>"When your intuition is strong, follow it."</p>
+> <p>- Lolly Daskal</p>
