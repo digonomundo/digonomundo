@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"When your intuition is strong, follow it."</p>
-> <p>- Lolly Daskal</p>
+> <p>"If you can change your mind, you can change your life."</p>
+> <p>- William James</p>
