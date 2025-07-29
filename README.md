@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"If you can change your mind, you can change your life."</p>
-> <p>- William James</p>
+> <p>"If you chase two rabbits, you catch none."</p>
+> <p>- Confucius</p>
