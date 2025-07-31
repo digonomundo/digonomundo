@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</p>
-> <p>- Jack Butcher</p>
+> <p>"All know that the drop merges into the ocean, but few know that the ocean merges into the drop."</p>
+> <p>- Kabir</p>
