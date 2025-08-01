@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"All know that the drop merges into the ocean, but few know that the ocean merges into the drop."</p>
-> <p>- Kabir</p>
+> <p>"Only those who will risk going too far can possibly find out how far one can go."</p>
+> <p>- T.S. Eliot</p>
