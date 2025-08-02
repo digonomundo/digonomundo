@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Only those who will risk going too far can possibly find out how far one can go."</p>
-> <p>- T.S. Eliot</p>
+> <p>"Patience is not the ability to wait but the ability to keep a good attitude while waiting."</p>
+> <p>- Joyce Meyer</p>
