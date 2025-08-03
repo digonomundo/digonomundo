@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Patience is not the ability to wait but the ability to keep a good attitude while waiting."</p>
-> <p>- Joyce Meyer</p>
+> <p>"You have power over your mind - not outside events. Realize this, and you will find strength."</p>
+> <p>- Marcus Aurelius</p>
