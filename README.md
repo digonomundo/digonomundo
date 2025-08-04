@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"You have power over your mind - not outside events. Realize this, and you will find strength."</p>
-> <p>- Marcus Aurelius</p>
+> <p>"The ladder of success is best climbed by stepping on the rungs of opportunity."</p>
+> <p>- Ayn Rand</p>
