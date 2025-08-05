@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The ladder of success is best climbed by stepping on the rungs of opportunity."</p>
-> <p>- Ayn Rand</p>
+> <p>"There is nothing in the world so irresistibly contagious as laughter and good humor."</p>
+> <p>- Charles Dickens</p>
