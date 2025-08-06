@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"There is nothing in the world so irresistibly contagious as laughter and good humor."</p>
-> <p>- Charles Dickens</p>
+> <p>"In peace, sons bury their fathers. In war, fathers bury their sons. "</p>
+> <p>- Herodotus</p>
