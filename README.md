@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"In peace, sons bury their fathers. In war, fathers bury their sons. "</p>
-> <p>- Herodotus</p>
+> <p>"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously."</p>
+> <p>- Steve Maraboli</p>
