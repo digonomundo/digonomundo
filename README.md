@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously."</p>
-> <p>- Steve Maraboli</p>
+> <p>"Constantly think about how you could be doing things better."</p>
+> <p>- Elon Musk</p>
