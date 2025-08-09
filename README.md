@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Constantly think about how you could be doing things better."</p>
-> <p>- Elon Musk</p>
+> <p>"You have to keep breaking your heart until it opens."</p>
+> <p>- Rumi</p>
