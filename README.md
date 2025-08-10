@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"You have to keep breaking your heart until it opens."</p>
-> <p>- Rumi</p>
+> <p>"Men do not attract which they want but that which they are."</p>
+> <p>- James Allen</p>
