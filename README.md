@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Men do not attract which they want but that which they are."</p>
-> <p>- James Allen</p>
+> <p>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</p>
+> <p>- Celestine Chua</p>
