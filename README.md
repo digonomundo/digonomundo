@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</p>
-> <p>- Celestine Chua</p>
+> <p>"Life is like playing the violin in public and learning the instrument as one goes on."</p>
+> <p>- Samuel Butler</p>
