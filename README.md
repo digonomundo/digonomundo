@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Life is like playing the violin in public and learning the instrument as one goes on."</p>
-> <p>- Samuel Butler</p>
+> <p>"Success is going from failure to failure without losing your enthusiasm"</p>
+> <p>- Winston Churchill</p>
