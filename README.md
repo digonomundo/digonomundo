@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Success is going from failure to failure without losing your enthusiasm"</p>
-> <p>- Winston Churchill</p>
+> <p>"What is planted in each person's soul will sprout.  "</p>
+> <p>- Rumi</p>
