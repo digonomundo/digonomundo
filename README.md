@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"What is planted in each person's soul will sprout.  "</p>
-> <p>- Rumi</p>
+> <p>"The purpose of life is the expansion of happiness."</p>
+> <p>- Deepak Chopra</p>
