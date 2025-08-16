@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The purpose of life is the expansion of happiness."</p>
-> <p>- Deepak Chopra</p>
+> <p>"Happiness is not a goal...it's a by-product of a life well lived."</p>
+> <p>- Eleanor Roosevelt</p>
