@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Happiness is not a goal...it's a by-product of a life well lived."</p>
-> <p>- Eleanor Roosevelt</p>
+> <p>"The season of failure is the best time for sowing the seeds of success. "</p>
+> <p>- Paramahansa Yogananda</p>
