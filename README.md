@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The season of failure is the best time for sowing the seeds of success. "</p>
-> <p>- Paramahansa Yogananda</p>
+> <p>"While we may not be able to control all that happens to us, we can control what happens inside us."</p>
+> <p>- Benjamin Franklin</p>
