@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"While we may not be able to control all that happens to us, we can control what happens inside us."</p>
-> <p>- Benjamin Franklin</p>
+> <p>"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking."</p>
+> <p>- Johann Wolfgang von Goethe</p>
