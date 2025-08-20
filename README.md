@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking."</p>
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>"Memory is the scribe of the soul."</p>
+> <p>- Aristotle</p>
