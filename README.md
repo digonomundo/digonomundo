@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Memory is the scribe of the soul."</p>
-> <p>- Aristotle</p>
+> <p>"Each of us is a unique strand in the intricate web of life and here to make a contribution."</p>
+> <p>- Deepak Chopra</p>
