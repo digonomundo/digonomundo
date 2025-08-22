@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Each of us is a unique strand in the intricate web of life and here to make a contribution."</p>
-> <p>- Deepak Chopra</p>
+> <p>"Trust is the foundation of great leadership."</p>
+> <p>- Lolly Daskal</p>
