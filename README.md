@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Trust is the foundation of great leadership."</p>
-> <p>- Lolly Daskal</p>
+> <p>"Most people get ahead during the time that others waste."</p>
+> <p>- Henry Ford</p>
