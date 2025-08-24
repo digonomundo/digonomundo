@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Most people get ahead during the time that others waste."</p>
-> <p>- Henry Ford</p>
+> <p>"It is our choices that show what we truly are, far more than our abilities."</p>
+> <p>- Albus Dumbledore</p>
