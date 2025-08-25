@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"It is our choices that show what we truly are, far more than our abilities."</p>
-> <p>- Albus Dumbledore</p>
+> <p>"You're braver than you believe, and stronger than you seem, and smarter than you think."</p>
+> <p>- A.A. Milne</p>
