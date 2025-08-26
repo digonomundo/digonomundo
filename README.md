@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"You're braver than you believe, and stronger than you seem, and smarter than you think."</p>
-> <p>- A.A. Milne</p>
+> <p>"We've got to live, no matter how many skies have fallen."</p>
+> <p>- D. H. Lawrence</p>
