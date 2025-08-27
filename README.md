@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"We've got to live, no matter how many skies have fallen."</p>
-> <p>- D. H. Lawrence</p>
+> <p>"The ladder of success is best climbed by stepping on the rungs of opportunity."</p>
+> <p>- Ayn Rand</p>
