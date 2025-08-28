@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The ladder of success is best climbed by stepping on the rungs of opportunity."</p>
-> <p>- Ayn Rand</p>
+> <p>"We think too much and feel too little."</p>
+> <p>- Charlie Chaplin</p>
