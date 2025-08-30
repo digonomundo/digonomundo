@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush."</p>
-> <p>- Rumi</p>
+> <p>"A minute's success pays the failure of years."</p>
+> <p>- Robert Browning</p>
