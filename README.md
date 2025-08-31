@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"A minute's success pays the failure of years."</p>
-> <p>- Robert Browning</p>
+> <p>"I am not proud, but I am happy; and happiness blinds, I think, more than pride."</p>
+> <p>- Alexandre Dumas</p>
