@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"I am not proud, but I am happy; and happiness blinds, I think, more than pride."</p>
-> <p>- Alexandre Dumas</p>
+> <p>"The Art of Peace begins with you."</p>
+> <p>- Morihei Ueshiba</p>
