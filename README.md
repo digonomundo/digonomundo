@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The Art of Peace begins with you."</p>
-> <p>- Morihei Ueshiba</p>
+> <p>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</p>
+> <p>- Naval Ravikant</p>
