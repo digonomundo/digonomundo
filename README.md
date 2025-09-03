@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</p>
-> <p>- Naval Ravikant</p>
+> <p>"It's not what you pay a man, but what he costs you that counts."</p>
+> <p>- Will Rogers</p>
