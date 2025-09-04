@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"It's not what you pay a man, but what he costs you that counts."</p>
-> <p>- Will Rogers</p>
+> <p>"How people treat you is their karma; how you react is yours. "</p>
+> <p>- Wayne Dyer</p>
