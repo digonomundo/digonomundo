@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"How people treat you is their karma; how you react is yours. "</p>
-> <p>- Wayne Dyer</p>
+> <p>"Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing."</p>
+> <p>- Brian Tracy</p>
