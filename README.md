@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing."</p>
-> <p>- Brian Tracy</p>
+> <p>"Where there is no struggle, there is no strength. "</p>
+> <p>- Oprah Winfrey</p>
