@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Where there is no struggle, there is no strength. "</p>
-> <p>- Oprah Winfrey</p>
+> <p>"Don't think money does everything or you are going to end up doing everything for money."</p>
+> <p>- Voltaire</p>
