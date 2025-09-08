@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Don't think money does everything or you are going to end up doing everything for money."</p>
-> <p>- Voltaire</p>
+> <p>"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand."</p>
+> <p>- Thich Nhat Hanh</p>
