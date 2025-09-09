@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand."</p>
-> <p>- Thich Nhat Hanh</p>
+> <p>"All has not been said and never will be."</p>
+> <p>- Samuel Beckett</p>
