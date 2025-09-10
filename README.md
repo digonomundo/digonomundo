@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"All has not been said and never will be."</p>
-> <p>- Samuel Beckett</p>
+> <p>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</p>
+> <p>- Mother Teresa</p>
