@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</p>
-> <p>- Mother Teresa</p>
+> <p>"If you look for perfection, you'll never be content."</p>
+> <p>- Leo Tolstoy</p>
