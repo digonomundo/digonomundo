@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"If you look for perfection, you'll never be content."</p>
-> <p>- Leo Tolstoy</p>
+> <p>"Never let the fear of striking out keep you from playing the game."</p>
+> <p>- Babe Ruth</p>
