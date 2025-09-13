@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Never let the fear of striking out keep you from playing the game."</p>
-> <p>- Babe Ruth</p>
+> <p>"We must not sit down and wait for miracles. Up and be going!"</p>
+> <p>- John Eliot</p>
