@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"We must not sit down and wait for miracles. Up and be going!"</p>
-> <p>- John Eliot</p>
+> <p>"There is no self-discovery without pain and loss."</p>
+> <p>- Anita Krizzan</p>
