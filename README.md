@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"There is no self-discovery without pain and loss."</p>
-> <p>- Anita Krizzan</p>
+> <p>"Learn to value yourself, which means: fight for your happiness."</p>
+> <p>- Ayn Rand</p>
