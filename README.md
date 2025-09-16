@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Learn to value yourself, which means: fight for your happiness."</p>
-> <p>- Ayn Rand</p>
+> <p>"Some people feel the rain. Others just get wet. "</p>
+> <p>- Bob Dylan</p>
