@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Some people feel the rain. Others just get wet. "</p>
-> <p>- Bob Dylan</p>
+> <p>"To be happy we need something to solve. Happiness is therefore a form of action."</p>
+> <p>- Mark Manson</p>
