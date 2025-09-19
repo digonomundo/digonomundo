@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Perfectionism is simply putting a limit on your future."</p>
-> <p>- John Eliot</p>
+> <p>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</p>
+> <p>- Nicolas Chamfort</p>
