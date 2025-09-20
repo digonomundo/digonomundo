@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</p>
-> <p>- Nicolas Chamfort</p>
+> <p>"People are doing the best that they can from their own level of consciousness."</p>
+> <p>- Deepak Chopra</p>
