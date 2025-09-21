@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"People are doing the best that they can from their own level of consciousness."</p>
-> <p>- Deepak Chopra</p>
+> <p>"To accomplish big things, I am convinced you must first dream big dreams."</p>
+> <p>- Conrad Hilton</p>
