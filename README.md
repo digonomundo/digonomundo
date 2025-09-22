@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"To accomplish big things, I am convinced you must first dream big dreams."</p>
-> <p>- Conrad Hilton</p>
+> <p>"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."</p>
+> <p>- Eleanor Roosevelt</p>
