@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."</p>
-> <p>- Eleanor Roosevelt</p>
+> <p>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</p>
+> <p>- Steve Harvey</p>
