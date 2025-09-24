@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</p>
-> <p>- Steve Harvey</p>
+> <p>"The single most powerful asset we all have is our mind."</p>
+> <p>- Robert Kiyosaki</p>
