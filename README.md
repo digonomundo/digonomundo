@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"The single most powerful asset we all have is our mind."</p>
-> <p>- Robert Kiyosaki</p>
+> <p>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</p>
+> <p>- Franz Kafka</p>
