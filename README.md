@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Everything is in your own heart."</p>
-> <p>- Thich Nhat Hanh</p>
+> <p>"It is startling to realize how much unbelief is necessary to make belief possible."</p>
+> <p>- Eric Hoffer</p>
