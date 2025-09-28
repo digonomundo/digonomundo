@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"It is startling to realize how much unbelief is necessary to make belief possible."</p>
-> <p>- Eric Hoffer</p>
+> <p>"It is better to disappoint people with the truth than to appease them with a lie."</p>
+> <p>- Simon Sinek</p>
