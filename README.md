@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"It is better to disappoint people with the truth than to appease them with a lie."</p>
-> <p>- Simon Sinek</p>
+> <p>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</p>
+> <p>- William Faulkner</p>
