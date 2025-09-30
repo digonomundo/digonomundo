@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</p>
-> <p>- William Faulkner</p>
+> <p>"Every great change is preceded by chaos."</p>
+> <p>- Deepak Chopra</p>
