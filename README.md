@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Every great change is preceded by chaos."</p>
-> <p>- Deepak Chopra</p>
+> <p>"Life is the dancer and you are the dance."</p>
+> <p>- Eckhart Tolle</p>
