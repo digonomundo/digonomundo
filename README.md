@@ -1,31 +1,35 @@
-### Hey there! I'm Rodrigo Dias! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><a href="https://github.com/piresflp/"><img align="right" src="https://img.shields.io/github/followers/digonomundo?style=social&logo=github" alt="Follow on Github"></a>
+# Hello, I'm Rodrigo! <img src="/assets/cafe.gif">
+<img src="/assets/DigoIA.png" min-width="290px" width="290px" align="right" alt="Uma imagem minha gerada por inteligencia artificial">
 
-<img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--uxqgfA7M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/idrudmils3eo9di1a59u.gif" width="350px" height=""/>
+### 🚀 Main Skills:
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Next.js](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-🎓 I'm a Software and Telecommunications Enginner student from Brazil passionate about building apps. My passion for software lies with having the capability to build anything and impact other people's lives. I take great care in the experience, architecture, and code quality of the things I build.
+### 🛠 Tools I Use:
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-808080?style=for-the-badge&logo=androidstudio)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
----
-
-### 💻 What I’m working on:
-- **Academic projects with C or C++** — developing small systems and simulations, mostly around algorithms, and automation.
-
-### 🌱 What I’m learning:
-- **Data structures and algorithms** — studying for programming competitions, with a focus on recursion, dynamic programming, and problem-solving strategies.
-- **Architecture and best practices** — applying SOLID principles, design patterns, and modularization to write scalable and maintainable code.
-- **Competitive programming** — training regularly, competing in contests, and leading study groups to help others grow in this area too.
-
-### ⚡ Fun facts about me:
-- I love extreme sports. 
-- I’m also into pets 🐾and experimenting in the kitchen 🍝
-- I like exploring new ideas and technologies.
-- 💬 I love connecting with new people, so if you want to say hi, I'll be happy to meet you! :) — let's connect and build something cool together!
----
-- 📫 How to reach me: **rodrigo@digonomundo.com** or
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/digonomundo/)](https://www.linkedin.com/in/digonomundo/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/digonomundo)](https://twitter.com/digonomundo)
-[![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Email&logoColor=white&link=mailto:rodrigo@digonomundo.com)](mailto:rodrigo@digonomundo.com)
-
+### 📚 Other Knowledge:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
 ```kotlin
 if (contratado == true) {
@@ -35,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"Life is the dancer and you are the dance."</p>
-> <p>- Eckhart Tolle</p>
+> <p>"If you do not change direction, you may end up where you are heading."</p>
+> <p>- Lao Tzu</p>
