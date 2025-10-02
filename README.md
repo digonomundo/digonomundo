@@ -8,7 +8,7 @@
 ---
 
 ### 💻 What I’m working on:
-- **Academic projects with C, C++ or Java** — developing small systems and simulations, mostly around algorithms, and automation.
+- **Academic projects with C or C++** — developing small systems and simulations, mostly around algorithms, and automation.
 
 ### 🌱 What I’m learning:
 - **Data structures and algorithms** — studying for programming competitions, with a focus on recursion, dynamic programming, and problem-solving strategies.
@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The heart wants what it wants - or else it does not care."</p>
-> <p>- Emily Dickinson</p>
+> <p>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</p>
+> <p>- Samuel Beckett</p>
