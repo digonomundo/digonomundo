@@ -24,23 +24,29 @@
 - 📫 How to reach me: **rodrigo@digonomundo.com** or
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/digonomundo/)](https://www.linkedin.com/in/digonomundo/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/digonomundo)
+[![My site](https://img.shields.io/badge/My%20site-%23161616.svg?style=for-the-badge&logoColor=blue&logo=safari)](https://www.digonomundo.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/digonomundo)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/digonomundo)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/digonomundo)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/640632942703673374)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@digonomundo)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@digonomundo)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@digonomundo)
 [![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/digonomundo)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/digonomundo)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/digonomundo/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rodrigo-Dias-49?ev=hdr_xprf)
 
-```kotlin
-if (contratado == true) {
-    println("Feliz da vida!!!")
+```swift
+
+if hired {
+    print("Excited for the opportunity!")
 } else {
-    println("Continuarei tentando!")
+    print("I’ll keep improving and trying again.")
 }
+
 ```
 
 ### 📜 Quote of the day:
-> <p>"Argue for your limitations and sure enough, they're yours."</p>
-> <p>- Richard Bach</p>
+> <p>"The heart wants what it wants - or else it does not care."</p>
+> <p>- Emily Dickinson</p>
