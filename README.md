@@ -8,7 +8,7 @@
 ---
 
 ### 💻 What I’m working on:
-- **Academic projects with C or C++** — developing small systems and simulations, mostly around algorithms, and automation.
+- **Academic projects with C, C++ or Java** — developing small systems and simulations, mostly around algorithms, and automation.
 
 ### 🌱 What I’m learning:
 - **Data structures and algorithms** — studying for programming competitions, with a focus on recursion, dynamic programming, and problem-solving strategies.
