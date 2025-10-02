@@ -39,5 +39,5 @@ if (contratado == true) {
 }
 ```
 ### 📜 Quote of the day:
-> <p>"If you do not change direction, you may end up where you are heading."</p>
-> <p>- Lao Tzu</p>
+> <p>"Greatness comes from living with purpose and passion."</p>
+> <p>- Ralph Marston</p>
