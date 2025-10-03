@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</p>
-> <p>- Samuel Beckett</p>
+> <p>"Thoughts become things. If you see it in your mind, you will hold it in your hand."</p>
+> <p>- Bob Proctor</p>
