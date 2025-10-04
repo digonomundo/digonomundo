@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Thoughts become things. If you see it in your mind, you will hold it in your hand."</p>
-> <p>- Bob Proctor</p>
+> <p>"Who wishes to fight must first count the cost."</p>
+> <p>- Sun Tzu</p>
