@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Who wishes to fight must first count the cost."</p>
-> <p>- Sun Tzu</p>
+> <p>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</p>
+> <p>- Brian Tracy</p>
