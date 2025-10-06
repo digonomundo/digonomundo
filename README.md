@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</p>
-> <p>- Brian Tracy</p>
+> <p>"Most of the evil in this world is done by people with good intentions."</p>
+> <p>- T.S. Eliot</p>
