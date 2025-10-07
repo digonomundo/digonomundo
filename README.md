@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Most of the evil in this world is done by people with good intentions."</p>
-> <p>- T.S. Eliot</p>
+> <p>"The power of human thought grows exponentially with the number of minds that share that thought."</p>
+> <p>- Dan Brown</p>
