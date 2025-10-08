@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The power of human thought grows exponentially with the number of minds that share that thought."</p>
-> <p>- Dan Brown</p>
+> <p>"The more reasons you have for achieving your goal, the more determined you will become."</p>
+> <p>- Brian Tracy</p>
