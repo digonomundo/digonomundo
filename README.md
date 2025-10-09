@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The more reasons you have for achieving your goal, the more determined you will become."</p>
-> <p>- Brian Tracy</p>
+> <p>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."</p>
+> <p>- Dalai Lama</p>
