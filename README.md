@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."</p>
-> <p>- Dalai Lama</p>
+> <p>"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."</p>
+> <p>- Andrew Carnegie</p>
