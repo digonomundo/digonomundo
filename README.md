@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."</p>
-> <p>- Andrew Carnegie</p>
+> <p>"I like the dreams of the future better than the history of the past."</p>
+> <p>- Thomas Jefferson</p>
