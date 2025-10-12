@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"I like the dreams of the future better than the history of the past."</p>
-> <p>- Thomas Jefferson</p>
+> <p>"Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard."</p>
+> <p>- Colin Powell</p>
