@@ -3,12 +3,12 @@
 
 <img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--uxqgfA7M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/idrudmils3eo9di1a59u.gif" width="350px" height=""/>
 
-🎓 I'm a Software and Telecommunications Enginner student from Brazil passionate about building apps. My passion for software lies with having the capability to build anything and impact other people's lives. I take great care in the experience, architecture, and code quality of the things I build.
+🎓 I'm a Software and Telecommunications Engineering student from Brazil, passionate about building apps. My passion for software comes from the ability to create anything and make a positive impact on people's lives. I take great care in the user experience, architecture, and code quality of everything I build.
 
 ---
 
 ### 💻 What I’m working on:
-- **Academic projects with C or C++** — developing small systems and simulations, mostly around algorithms, and automation.
+- **Academic projects with C, C++ or java** — developing small systems and simulations, mostly around algorithms, and automation.
 
 ### 🌱 What I’m learning:
 - **Data structures and algorithms** — studying for programming competitions, with a focus on recursion, dynamic programming, and problem-solving strategies.
@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Thinking will not overcome fear but action will. "</p>
-> <p>- W. Clement Stone</p>
+> <p>"The only limits in your life are those that you set yourself."</p>
+> <p>- Celestine Chua</p>
