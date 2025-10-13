@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard."</p>
-> <p>- Colin Powell</p>
+> <p>"Thinking will not overcome fear but action will. "</p>
+> <p>- W. Clement Stone</p>
