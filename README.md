@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The only limits in your life are those that you set yourself."</p>
-> <p>- Celestine Chua</p>
+> <p>"Throughout this life, you can never be certain of living long enough to take another breath."</p>
+> <p>- Huang Po</p>
