@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Throughout this life, you can never be certain of living long enough to take another breath."</p>
-> <p>- Huang Po</p>
+> <p>"The best answer to anger is silence."</p>
+> <p>- Marcus Aurelius</p>
