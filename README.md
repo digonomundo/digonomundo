@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The best answer to anger is silence."</p>
-> <p>- Marcus Aurelius</p>
+> <p>"If you can't, you must. If you must, you can."</p>
+> <p>- Tony Robbins</p>
