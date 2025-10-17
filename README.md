@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you can't, you must. If you must, you can."</p>
-> <p>- Tony Robbins</p>
+> <p>"Success is not to be pursued, it is to be attracted by the person you become."</p>
+> <p>- Jim Rohn</p>
