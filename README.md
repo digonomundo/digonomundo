@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Success is not to be pursued, it is to be attracted by the person you become."</p>
-> <p>- Jim Rohn</p>
+> <p>"The cost of leadership is self-interest."</p>
+> <p>- Simon Sinek</p>
