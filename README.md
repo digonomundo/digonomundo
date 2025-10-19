@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The cost of leadership is self-interest."</p>
-> <p>- Simon Sinek</p>
+> <p>"Attitude is a little thing that makes a big difference."</p>
+> <p>- Winston Churchill</p>
