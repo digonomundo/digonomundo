@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Attitude is a little thing that makes a big difference."</p>
-> <p>- Winston Churchill</p>
+> <p>"You came empty handed, and you will leave empty handed."</p>
+> <p>- Bhagavad Gita</p>
