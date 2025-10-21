@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"You came empty handed, and you will leave empty handed."</p>
-> <p>- Bhagavad Gita</p>
+> <p>"Worry is a waste of emotional reserve."</p>
+> <p>- Ayn Rand</p>
