@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Worry is a waste of emotional reserve."</p>
-> <p>- Ayn Rand</p>
+> <p>"The most difficult times for many of us are the ones we give ourselves."</p>
+> <p>- Pema Chodron</p>
