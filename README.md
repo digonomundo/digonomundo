@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The most difficult times for many of us are the ones we give ourselves."</p>
-> <p>- Pema Chodron</p>
+> <p>"People who belittle people, will be LITTLE people, and will accomplish very Little"</p>
+> <p>- Norman Vincent Peale</p>
