@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"People who belittle people, will be LITTLE people, and will accomplish very Little"</p>
-> <p>- Norman Vincent Peale</p>
+> <p>"Opportunity often comes disguised in the form of misfortune or temporary defeat."</p>
+> <p>- Napoleon Hill</p>
