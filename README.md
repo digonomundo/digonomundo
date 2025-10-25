@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Opportunity often comes disguised in the form of misfortune or temporary defeat."</p>
-> <p>- Napoleon Hill</p>
+> <p>"No man is free who is not master of himself."</p>
+> <p>- Epictetus</p>
