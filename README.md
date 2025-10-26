@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"No man is free who is not master of himself."</p>
-> <p>- Epictetus</p>
+> <p>"Embrace the life you have and stop wishing that you could be someone else."</p>
+> <p>- Joyce Meyer</p>
