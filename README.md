@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Embrace the life you have and stop wishing that you could be someone else."</p>
-> <p>- Joyce Meyer</p>
+> <p>"Man must use what he has, not hope for what is not."</p>
+> <p>- G.I. Gurdjieff</p>
