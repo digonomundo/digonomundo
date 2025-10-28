@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Man must use what he has, not hope for what is not."</p>
-> <p>- G.I. Gurdjieff</p>
+> <p>"Focused, hard work is the real key to success."</p>
+> <p>- John Carmack</p>
