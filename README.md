@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Focused, hard work is the real key to success."</p>
-> <p>- John Carmack</p>
+> <p>"Your vision will become clear only when you can look into your own heart."</p>
+> <p>- Lolly Daskal</p>
