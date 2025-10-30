@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Your vision will become clear only when you can look into your own heart."</p>
-> <p>- Lolly Daskal</p>
+> <p>"Worry is a waste of emotional reserve."</p>
+> <p>- Ayn Rand</p>
