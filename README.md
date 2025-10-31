@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Worry is a waste of emotional reserve."</p>
-> <p>- Ayn Rand</p>
+> <p>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</p>
+> <p>- Elvis Presley</p>
