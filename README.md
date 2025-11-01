@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</p>
-> <p>- Elvis Presley</p>
+> <p>"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."</p>
+> <p>- Zig Ziglar</p>
