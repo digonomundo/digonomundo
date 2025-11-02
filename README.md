@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."</p>
-> <p>- Zig Ziglar</p>
+> <p>"If there's a definition of freedom, I think it's this: living life on your terms."</p>
+> <p>- Kamal Ravikant</p>
