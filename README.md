@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If there's a definition of freedom, I think it's this: living life on your terms."</p>
-> <p>- Kamal Ravikant</p>
+> <p>"Most people get ahead during the time that others waste."</p>
+> <p>- Henry Ford</p>
