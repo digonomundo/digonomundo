@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Most people get ahead during the time that others waste."</p>
-> <p>- Henry Ford</p>
+> <p>"Here is the test to find whether your mission on earth is finished. If you're alive, it isn't."</p>
+> <p>- Richard Bach</p>
