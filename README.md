@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Here is the test to find whether your mission on earth is finished. If you're alive, it isn't."</p>
-> <p>- Richard Bach</p>
+> <p>"At the center of your being you have the answer; you know who you are and you know what you want."</p>
+> <p>- Lao Tzu</p>
