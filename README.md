@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"At the center of your being you have the answer; you know who you are and you know what you want."</p>
-> <p>- Lao Tzu</p>
+> <p>"He who cannot be a good follower cannot be a good leader."</p>
+> <p>- Aristotle</p>
