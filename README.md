@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"He who cannot be a good follower cannot be a good leader."</p>
-> <p>- Aristotle</p>
+> <p>"Some people are old at 18 and some are young at 90. Time is a concept that humans created."</p>
+> <p>- Yoko Ono</p>
