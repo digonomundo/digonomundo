@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Some people are old at 18 and some are young at 90. Time is a concept that humans created."</p>
-> <p>- Yoko Ono</p>
+> <p>"The soul should always stand ajar, ready to welcome the ecstatic experience."</p>
+> <p>- Emily Dickinson</p>
