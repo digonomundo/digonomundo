@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The soul should always stand ajar, ready to welcome the ecstatic experience."</p>
-> <p>- Emily Dickinson</p>
+> <p>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</p>
+> <p>- Paramahansa Yogananda</p>
