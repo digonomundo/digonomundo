@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</p>
-> <p>- Paramahansa Yogananda</p>
+> <p>"The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."</p>
+> <p>- Josh Waitzkin</p>
