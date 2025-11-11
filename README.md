@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."</p>
-> <p>- Josh Waitzkin</p>
+> <p>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</p>
+> <p>- Dogen</p>
