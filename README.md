@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</p>
-> <p>- Dogen</p>
+> <p>"Don't let making a living prevent you from making a life."</p>
+> <p>- John Wooden</p>
