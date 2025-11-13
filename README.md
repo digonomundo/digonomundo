@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Don't let making a living prevent you from making a life."</p>
-> <p>- John Wooden</p>
+> <p>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</p>
+> <p>- Nikola Tesla</p>
