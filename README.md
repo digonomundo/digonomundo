@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</p>
-> <p>- Nikola Tesla</p>
+> <p>"Truth is such a rare thing, it is delighted to tell it."</p>
+> <p>- Emily Dickinson</p>
