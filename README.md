@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Truth is such a rare thing, it is delighted to tell it."</p>
-> <p>- Emily Dickinson</p>
+> <p>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</p>
+> <p>- Orison Swett Marden</p>
