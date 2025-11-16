@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</p>
-> <p>- Orison Swett Marden</p>
+> <p>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</p>
+> <p>- Mark Twain</p>
