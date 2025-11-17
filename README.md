@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</p>
-> <p>- Mark Twain</p>
+> <p>"Fallacies do not cease to be fallacies because they become fashions."</p>
+> <p>- Gilbert Chesterton</p>
