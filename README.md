@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Fallacies do not cease to be fallacies because they become fashions."</p>
-> <p>- Gilbert Chesterton</p>
+> <p>"Victory is always possible for the person who refuses to stop fighting."</p>
+> <p>- Napoleon Hill</p>
