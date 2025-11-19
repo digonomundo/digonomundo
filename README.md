@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Victory is always possible for the person who refuses to stop fighting."</p>
-> <p>- Napoleon Hill</p>
+> <p>"Life is really simple, but men insist on making it complicated. "</p>
+> <p>- Confucius</p>
