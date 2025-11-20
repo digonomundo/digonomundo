@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Life is really simple, but men insist on making it complicated. "</p>
-> <p>- Confucius</p>
+> <p>"Happiness is only real, when shared."</p>
+> <p>- Christopher McCandless</p>
