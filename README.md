@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Happiness is only real, when shared."</p>
-> <p>- Christopher McCandless</p>
+> <p>"If you do not conquer self, you will be conquered by self."</p>
+> <p>- Napoleon Hill</p>
