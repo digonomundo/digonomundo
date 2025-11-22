@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you do not conquer self, you will be conquered by self."</p>
-> <p>- Napoleon Hill</p>
+> <p>"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities."</p>
+> <p>- Josh Waitzkin</p>
