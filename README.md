@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities."</p>
-> <p>- Josh Waitzkin</p>
+> <p>"Life is not a problem to be solved, but a reality to be experienced."</p>
+> <p>- Soren Kierkegaard</p>
