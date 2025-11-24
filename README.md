@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Life is not a problem to be solved, but a reality to be experienced."</p>
-> <p>- Soren Kierkegaard</p>
+> <p>"We are born from a quiet sleep, and we die to a calm awakening"</p>
+> <p>- Zhuangzi</p>
