@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"We are born from a quiet sleep, and we die to a calm awakening"</p>
-> <p>- Zhuangzi</p>
+> <p>"It is never too late to be what you might have been."</p>
+> <p>- George Eliot</p>
