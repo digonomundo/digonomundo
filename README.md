@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"It is never too late to be what you might have been."</p>
-> <p>- George Eliot</p>
+> <p>"Learn to use your emotions to think, not think with your emotions."</p>
+> <p>- Robert Kiyosaki</p>
