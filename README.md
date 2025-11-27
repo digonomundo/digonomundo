@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Learn to use your emotions to think, not think with your emotions."</p>
-> <p>- Robert Kiyosaki</p>
+> <p>"When you reach the top of the mountain, keep climbing. "</p>
+> <p>- Zen Proverb</p>
