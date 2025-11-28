@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"When you reach the top of the mountain, keep climbing. "</p>
-> <p>- Zen Proverb</p>
+> <p>"We meet ourselves time and again in a thousand disguises on the path of life."</p>
+> <p>- Carl Jung</p>
