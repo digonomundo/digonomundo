@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"We meet ourselves time and again in a thousand disguises on the path of life."</p>
-> <p>- Carl Jung</p>
+> <p>"Many roads lead to the path, but basically there are only two: reason and practice. "</p>
+> <p>- Bodhidharma</p>
