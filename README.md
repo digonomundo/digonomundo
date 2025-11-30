@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Many roads lead to the path, but basically there are only two: reason and practice. "</p>
-> <p>- Bodhidharma</p>
+> <p>"Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit."</p>
+> <p>- Robin Sharma</p>
