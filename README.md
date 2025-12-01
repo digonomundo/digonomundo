@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit."</p>
-> <p>- Robin Sharma</p>
+> <p>"The dream is free, but the hustle is sold separately."</p>
+> <p>- Steve Harvey</p>
