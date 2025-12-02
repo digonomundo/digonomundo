@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The dream is free, but the hustle is sold separately."</p>
-> <p>- Steve Harvey</p>
+> <p>"There is an essence of when you are fearless, you become more creative."</p>
+> <p>- Gurbaksh Chahal</p>
