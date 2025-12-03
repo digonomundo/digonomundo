@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"There is an essence of when you are fearless, you become more creative."</p>
-> <p>- Gurbaksh Chahal</p>
+> <p>"The highest level of wisdom is when you not only accept but love adversity."</p>
+> <p>- Maxime Lagace</p>
