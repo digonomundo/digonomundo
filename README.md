@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The highest level of wisdom is when you not only accept but love adversity."</p>
-> <p>- Maxime Lagace</p>
+> <p>"Challenge yourself to find the good and beautiful thing inside of everyone."</p>
+> <p>- Mark Manson</p>
