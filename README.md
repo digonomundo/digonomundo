@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Challenge yourself to find the good and beautiful thing inside of everyone."</p>
-> <p>- Mark Manson</p>
+> <p>"In youth we run into difficulties. In old age difficulties run into us. "</p>
+> <p>- Beverly Sills</p>
