@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"In youth we run into difficulties. In old age difficulties run into us. "</p>
-> <p>- Beverly Sills</p>
+> <p>"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."</p>
+> <p>- Mark Twain</p>
