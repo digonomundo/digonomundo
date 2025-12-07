@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."</p>
-> <p>- Mark Twain</p>
+> <p>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</p>
+> <p>- George Bernard Shaw</p>
