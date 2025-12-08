@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</p>
-> <p>- George Bernard Shaw</p>
+> <p>"Life is too important to be taken seriously."</p>
+> <p>- Oscar Wilde</p>
