@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Life is too important to be taken seriously."</p>
-> <p>- Oscar Wilde</p>
+> <p>"A clear conscience is the sure sign of a bad memory."</p>
+> <p>- Mark Twain</p>
