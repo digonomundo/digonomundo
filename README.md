@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"A clear conscience is the sure sign of a bad memory."</p>
-> <p>- Mark Twain</p>
+> <p>"Leaders think and talk about solutions. Followers think and talk about the problems."</p>
+> <p>- Brian Tracy</p>
