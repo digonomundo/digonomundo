@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Leaders think and talk about solutions. Followers think and talk about the problems."</p>
-> <p>- Brian Tracy</p>
+> <p>"Your time is limited, so don't waste it living someone elses. life."</p>
+> <p>- Steve Jobs</p>
