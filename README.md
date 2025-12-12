@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Your time is limited, so don't waste it living someone elses. life."</p>
-> <p>- Steve Jobs</p>
+> <p>"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."</p>
+> <p>- Sonia Ricotti</p>
