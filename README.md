@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."</p>
-> <p>- Sonia Ricotti</p>
+> <p>"Don't shortchange yourself when it comes to investing in your own better future."</p>
+> <p>- Jim Rohn</p>
