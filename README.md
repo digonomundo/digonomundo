@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"When you are tough on yourself, life is going to be infinitely easier on you.  "</p>
-> <p>- Zig Ziglar</p>
+> <p>"Words are the clothing of our thoughts."</p>
+> <p>- Jonathan Swift</p>
