@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Words are the clothing of our thoughts."</p>
-> <p>- Jonathan Swift</p>
+> <p>"Fashion fades, only style remains the same."</p>
+> <p>- Coco Chanel</p>
