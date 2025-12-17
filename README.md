@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Fashion fades, only style remains the same."</p>
-> <p>- Coco Chanel</p>
+> <p>"The people who succeed are irrationally passionate about something."</p>
+> <p>- Naval Ravikant</p>
