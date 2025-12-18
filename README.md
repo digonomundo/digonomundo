@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The people who succeed are irrationally passionate about something."</p>
-> <p>- Naval Ravikant</p>
+> <p>"Kind words can be short and easy to speak, but their echoes are truly endless."</p>
+> <p>- Mother Teresa</p>
