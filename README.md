@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Kind words can be short and easy to speak, but their echoes are truly endless."</p>
-> <p>- Mother Teresa</p>
+> <p>"If we all did the things we are capable of doing, we would literally astound ourselves."</p>
+> <p>- Thomas Edison</p>
