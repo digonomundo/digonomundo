@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If we all did the things we are capable of doing, we would literally astound ourselves."</p>
-> <p>- Thomas Edison</p>
+> <p>"Life belongs to the living, and he who lives must be prepared for changes."</p>
+> <p>- Johann Wolfgang von Goethe</p>
