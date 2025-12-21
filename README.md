@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Life belongs to the living, and he who lives must be prepared for changes."</p>
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>"Receive without complaint, Work with fate."</p>
+> <p>- Ming-Dao Deng</p>
