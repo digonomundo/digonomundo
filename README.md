@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Receive without complaint, Work with fate."</p>
-> <p>- Ming-Dao Deng</p>
+> <p>"If you can't argue both sides, you can't argue."</p>
+> <p>- Jack Butcher</p>
