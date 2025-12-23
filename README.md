@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you can't argue both sides, you can't argue."</p>
-> <p>- Jack Butcher</p>
+> <p>"The difference between impossible and possible is a willing heart."</p>
+> <p>- Lolly Daskal</p>
