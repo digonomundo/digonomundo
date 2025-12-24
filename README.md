@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The difference between impossible and possible is a willing heart."</p>
-> <p>- Lolly Daskal</p>
+> <p>"He that can have patience can have what he will."</p>
+> <p>- Benjamin Franklin</p>
