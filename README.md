@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"He that can have patience can have what he will."</p>
-> <p>- Benjamin Franklin</p>
+> <p>"The health of nations is more important than the wealth of nations."</p>
+> <p>- Will Rogers</p>
