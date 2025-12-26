@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The health of nations is more important than the wealth of nations."</p>
-> <p>- Will Rogers</p>
+> <p>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path."</p>
+> <p>- Zen Proverb</p>
