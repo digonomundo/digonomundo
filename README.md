@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path."</p>
-> <p>- Zen Proverb</p>
+> <p>"The best way to predict the future is to create it."</p>
+> <p>- Abraham Lincoln</p>
