@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The best way to predict the future is to create it."</p>
-> <p>- Abraham Lincoln</p>
+> <p>"Every moment is a fresh beginning."</p>
+> <p>- T.S. Eliot</p>
