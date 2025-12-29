@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Every moment is a fresh beginning."</p>
-> <p>- T.S. Eliot</p>
+> <p>"Sorrow is how we learn to love."</p>
+> <p>- Rita Mae Brown</p>
