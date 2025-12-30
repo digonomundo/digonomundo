@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Sorrow is how we learn to love."</p>
-> <p>- Rita Mae Brown</p>
+> <p>"I am always doing what I cannot do yet, in order to learn how to do it."</p>
+> <p>- Vincent van Gogh</p>
