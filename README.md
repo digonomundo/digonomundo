@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"I am always doing what I cannot do yet, in order to learn how to do it."</p>
-> <p>- Vincent van Gogh</p>
+> <p>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."</p>
+> <p>- James Allen</p>
