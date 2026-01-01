@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."</p>
-> <p>- James Allen</p>
+> <p>"If you do not tell the truth about yourself you cannot tell it about other people."</p>
+> <p>- Virginia Woolf</p>
