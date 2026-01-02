@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you do not tell the truth about yourself you cannot tell it about other people."</p>
-> <p>- Virginia Woolf</p>
+> <p>"If you get up one more time than you fall, you will make it through."</p>
+> <p>- Chinese Proverb</p>
