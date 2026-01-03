@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you get up one more time than you fall, you will make it through."</p>
-> <p>- Chinese Proverb</p>
+> <p>"To raise your consciousness, surround yourself with people of higher consciousness."</p>
+> <p>- Celestine Chua</p>
