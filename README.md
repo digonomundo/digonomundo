@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"To raise your consciousness, surround yourself with people of higher consciousness."</p>
-> <p>- Celestine Chua</p>
+> <p>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level."</p>
+> <p>- Eckhart Tolle</p>
