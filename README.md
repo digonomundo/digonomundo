@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level."</p>
-> <p>- Eckhart Tolle</p>
+> <p>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</p>
+> <p>- George Bernard Shaw</p>
