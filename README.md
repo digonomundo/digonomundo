@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</p>
-> <p>- George Bernard Shaw</p>
+> <p>"If you try to micromanage yourself all you're going to do is make yourself miserable."</p>
+> <p>- Naval Ravikant</p>
