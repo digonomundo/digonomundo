@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you try to micromanage yourself all you're going to do is make yourself miserable."</p>
-> <p>- Naval Ravikant</p>
+> <p>"Children are our greatest natural resource."</p>
+> <p>- Herbert Hoover</p>
