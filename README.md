@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff."</p>
-> <p>- Kamal Ravikant</p>
+> <p>"Adventure is worthwhile in itself."</p>
+> <p>- Amelia Earhart</p>
