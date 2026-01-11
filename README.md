@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"There are two things a person should never be angry at, what they can help, and what they cannot."</p>
-> <p>- Plato</p>
+> <p>"Nothing can dim the light which shines from within."</p>
+> <p>- Maya Angelou</p>
