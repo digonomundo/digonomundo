@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Nothing can dim the light which shines from within."</p>
-> <p>- Maya Angelou</p>
+> <p>"Life can be wonderful if you're not afraid of it."</p>
+> <p>- Charlie Chaplin</p>
