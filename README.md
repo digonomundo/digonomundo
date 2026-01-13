@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Life can be wonderful if you're not afraid of it."</p>
-> <p>- Charlie Chaplin</p>
+> <p>"Walk towards the sunshine, and the shadows will fall behind you."</p>
+> <p>- Mary Engelbreit</p>
