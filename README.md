@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Walk towards the sunshine, and the shadows will fall behind you."</p>
-> <p>- Mary Engelbreit</p>
+> <p>"The important thing is not what one is born with but what use one makes of that equipment."</p>
+> <p>- Alfred Adler</p>
