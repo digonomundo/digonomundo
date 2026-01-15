@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The important thing is not what one is born with but what use one makes of that equipment."</p>
-> <p>- Alfred Adler</p>
+> <p>"It's not what we do once in a while that shapes our lives, but what we do consistently."</p>
+> <p>- Tony Robbins</p>
