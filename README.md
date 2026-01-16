@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"It's not what we do once in a while that shapes our lives, but what we do consistently."</p>
-> <p>- Tony Robbins</p>
+> <p>"Perfection is not attainable, but if we chase perfection we can catch excellence."</p>
+> <p>- Vince Lombardi</p>
