@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Perfection is not attainable, but if we chase perfection we can catch excellence."</p>
-> <p>- Vince Lombardi</p>
+> <p>"The ego wants comfort and certainty. The soul wants to live fully."</p>
+> <p>- Maxime Lagace</p>
