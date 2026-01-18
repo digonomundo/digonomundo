@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The ego wants comfort and certainty. The soul wants to live fully."</p>
-> <p>- Maxime Lagace</p>
+> <p>"You cannot always control what goes on outside. But you can always control what goes on inside. "</p>
+> <p>- Wayne Dyer</p>
