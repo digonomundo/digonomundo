@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"You cannot always control what goes on outside. But you can always control what goes on inside. "</p>
-> <p>- Wayne Dyer</p>
+> <p>"Faithless is he that says farewell when the road darkens."</p>
+> <p>- J.R.R. Tolkien</p>
