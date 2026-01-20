@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Faithless is he that says farewell when the road darkens."</p>
-> <p>- J.R.R. Tolkien</p>
+> <p>"For every minute you are angry you lose sixty seconds of happiness."</p>
+> <p>- Ralph Waldo Emerson</p>
