@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"For every minute you are angry you lose sixty seconds of happiness."</p>
-> <p>- Ralph Waldo Emerson</p>
+> <p>"He who knows how to wait need make no concessions."</p>
+> <p>- Sigmund Freud</p>
