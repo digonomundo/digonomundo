@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"He who knows how to wait need make no concessions."</p>
-> <p>- Sigmund Freud</p>
+> <p>"Time doesn't heal emotional pain, you need to learn how to let go."</p>
+> <p>- Roy T. Bennett</p>
