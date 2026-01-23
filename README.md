@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Time doesn't heal emotional pain, you need to learn how to let go."</p>
-> <p>- Roy T. Bennett</p>
+> <p>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</p>
+> <p>- Ayn Rand</p>
