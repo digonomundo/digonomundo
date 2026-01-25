@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</p>
-> <p>- James Cameron</p>
+> <p>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</p>
+> <p>- John Eliot</p>
