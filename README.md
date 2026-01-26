@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</p>
-> <p>- John Eliot</p>
+> <p>"I am who I am today because of the choices I made yesterday."</p>
+> <p>- Eleanor Roosevelt</p>
