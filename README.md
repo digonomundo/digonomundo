@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"I am who I am today because of the choices I made yesterday."</p>
-> <p>- Eleanor Roosevelt</p>
+> <p>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</p>
+> <p>- Jack Butcher</p>
