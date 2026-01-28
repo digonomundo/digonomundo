@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</p>
-> <p>- Jack Butcher</p>
+> <p>"Believe and you're halfway there."</p>
+> <p>- Harry S. Truman</p>
