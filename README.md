@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Believe and you're halfway there."</p>
-> <p>- Harry S. Truman</p>
+> <p>"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "</p>
+> <p>- Estee Lauder</p>
