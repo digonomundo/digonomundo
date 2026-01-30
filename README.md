@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "</p>
-> <p>- Estee Lauder</p>
+> <p>"The best way to not feel hopeless is to get up and do something."</p>
+> <p>- Barack Obama</p>
