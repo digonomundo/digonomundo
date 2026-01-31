@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The best way to not feel hopeless is to get up and do something."</p>
-> <p>- Barack Obama</p>
+> <p>"No one has ever become poor by giving."</p>
+> <p>- Anne Frank</p>
