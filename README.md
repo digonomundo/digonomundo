@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"No one has ever become poor by giving."</p>
-> <p>- Anne Frank</p>
+> <p>"Those who know, do. Those that understand, teach."</p>
+> <p>- Aristotle</p>
