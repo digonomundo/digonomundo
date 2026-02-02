@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Those who know, do. Those that understand, teach."</p>
-> <p>- Aristotle</p>
+> <p>"You can't wait for inspiration. You have to go after it with a club. "</p>
+> <p>- Jack London</p>
