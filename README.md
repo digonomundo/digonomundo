@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"You can't wait for inspiration. You have to go after it with a club. "</p>
-> <p>- Jack London</p>
+> <p>"The truly rich men are the ones who have health, loved ones and a work they love."</p>
+> <p>- Maxime Lagace</p>
