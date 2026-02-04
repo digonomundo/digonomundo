@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The truly rich men are the ones who have health, loved ones and a work they love."</p>
-> <p>- Maxime Lagace</p>
+> <p>"We should not look back unless it is to derive useful lessons from past errors."</p>
+> <p>- George Washington</p>
