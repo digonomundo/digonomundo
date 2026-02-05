@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"We should not look back unless it is to derive useful lessons from past errors."</p>
-> <p>- George Washington</p>
+> <p>"We need a backbone, not a wishbone."</p>
+> <p>- Joyce Meyer</p>
