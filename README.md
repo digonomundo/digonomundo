@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"We need a backbone, not a wishbone."</p>
-> <p>- Joyce Meyer</p>
+> <p>"Sorrow is how we learn to love."</p>
+> <p>- Rita Mae Brown</p>
