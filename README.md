@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Sorrow is how we learn to love."</p>
-> <p>- Rita Mae Brown</p>
+> <p>"Small men think they are small; great men never know they are great. "</p>
+> <p>- Chinese Proverb</p>
