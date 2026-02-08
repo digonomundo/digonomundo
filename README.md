@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Small men think they are small; great men never know they are great. "</p>
-> <p>- Chinese Proverb</p>
+> <p>"Life happens in the river, not the shore."</p>
+> <p>- Maxime Lagace</p>
