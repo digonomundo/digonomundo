@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Life happens in the river, not the shore."</p>
-> <p>- Maxime Lagace</p>
+> <p>"Identify your problems, but give your power and energy to solutions."</p>
+> <p>- Tony Robbins</p>
