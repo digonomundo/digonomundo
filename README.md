@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Identify your problems, but give your power and energy to solutions."</p>
-> <p>- Tony Robbins</p>
+> <p>"Inspiration exists, but it has to find you working."</p>
+> <p>- Pablo Picasso</p>
