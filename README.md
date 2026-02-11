@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Inspiration exists, but it has to find you working."</p>
-> <p>- Pablo Picasso</p>
+> <p>"Enlightenment is intimacy with all things."</p>
+> <p>- Dogen</p>
