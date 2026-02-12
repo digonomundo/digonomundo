@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Enlightenment is intimacy with all things."</p>
-> <p>- Dogen</p>
+> <p>"Create each day anew."</p>
+> <p>- Morihei Ueshiba</p>
