@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Create each day anew."</p>
-> <p>- Morihei Ueshiba</p>
+> <p>"Happiness is only real, when shared."</p>
+> <p>- Christopher McCandless</p>
