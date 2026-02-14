@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Happiness is only real, when shared."</p>
-> <p>- Christopher McCandless</p>
+> <p>"Don't Let Yesterday Take Up Too Much Of Today."</p>
+> <p>- Will Rogers</p>
