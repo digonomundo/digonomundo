@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Don't Let Yesterday Take Up Too Much Of Today."</p>
-> <p>- Will Rogers</p>
+> <p>"Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking."</p>
+> <p>- Steve Jobs</p>
