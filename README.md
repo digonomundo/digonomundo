@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"At every moment where language can't go, that's your mind."</p>
-> <p>- Bodhidharma</p>
+> <p>"The majority of what you want will come from the minority of what you do."</p>
+> <p>- Gary Keller</p>
