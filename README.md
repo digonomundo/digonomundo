@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The majority of what you want will come from the minority of what you do."</p>
-> <p>- Gary Keller</p>
+> <p>"Aim for the moon. If you miss, you may hit a star."</p>
+> <p>- W. Clement Stone</p>
