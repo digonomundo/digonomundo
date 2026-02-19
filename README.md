@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Aim for the moon. If you miss, you may hit a star."</p>
-> <p>- W. Clement Stone</p>
+> <p>"Your world is a living expression of how you are using and have used your mind."</p>
+> <p>- Earl Nightingale</p>
