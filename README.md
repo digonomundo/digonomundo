@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Your world is a living expression of how you are using and have used your mind."</p>
-> <p>- Earl Nightingale</p>
+> <p>"When you reach the end of your rope, tie a knot in it and hang on."</p>
+> <p>- Franklin D. Roosevelt</p>
