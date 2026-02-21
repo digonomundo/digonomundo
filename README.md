@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"When you reach the end of your rope, tie a knot in it and hang on."</p>
-> <p>- Franklin D. Roosevelt</p>
+> <p>"We've got to live, no matter how many skies have fallen."</p>
+> <p>- D. H. Lawrence</p>
