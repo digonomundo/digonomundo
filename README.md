@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"We've got to live, no matter how many skies have fallen."</p>
-> <p>- D. H. Lawrence</p>
+> <p>"Fortunate are those who take the first steps."</p>
+> <p>- Paulo Coelho</p>
