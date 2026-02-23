@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Fortunate are those who take the first steps."</p>
-> <p>- Paulo Coelho</p>
+> <p>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</p>
+> <p>- Albert Einstein</p>
