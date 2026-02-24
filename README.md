@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</p>
-> <p>- Albert Einstein</p>
+> <p>"Do not try to be on the side of the majority, but live according to your inner laws."</p>
+> <p>- Marcus Aurelius</p>
