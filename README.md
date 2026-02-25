@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Do not try to be on the side of the majority, but live according to your inner laws."</p>
-> <p>- Marcus Aurelius</p>
+> <p>"Peace is not the absence of conflict, but the ability to cope with it."</p>
+> <p>- Unknown</p>
