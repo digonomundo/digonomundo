@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Peace is not the absence of conflict, but the ability to cope with it."</p>
-> <p>- Unknown</p>
+> <p>"The best revenge is to be unlike him who performed the injury."</p>
+> <p>- Marcus Aurelius</p>
