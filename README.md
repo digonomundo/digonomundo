@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The best revenge is to be unlike him who performed the injury."</p>
-> <p>- Marcus Aurelius</p>
+> <p>"The significance of life is living."</p>
+> <p>- Jiddu Krishnamurti</p>
