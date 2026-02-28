@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The significance of life is living."</p>
-> <p>- Jiddu Krishnamurti</p>
+> <p>"Failure is acceptable. Not trying is a whole different ball park."</p>
+> <p>- Michael Jordan</p>
