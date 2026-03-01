@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Failure is acceptable. Not trying is a whole different ball park."</p>
-> <p>- Michael Jordan</p>
+> <p>"The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. "</p>
+> <p>- Orison Swett Marden</p>
