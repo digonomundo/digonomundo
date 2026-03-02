@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. "</p>
-> <p>- Orison Swett Marden</p>
+> <p>"Comedy = tragedy + time."</p>
+> <p>- Carol Burnett</p>
