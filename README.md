@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Many a man has failed because he had his wishbone where his backbone should have been."</p>
-> <p>- Ronald Reagan</p>
+> <p>"Anxiety is the dizziness of freedom."</p>
+> <p>- Soren Kierkegaard</p>
