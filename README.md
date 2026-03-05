@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Anxiety is the dizziness of freedom."</p>
-> <p>- Soren Kierkegaard</p>
+> <p>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</p>
+> <p>- Chinese Proverb</p>
