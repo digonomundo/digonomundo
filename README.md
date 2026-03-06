@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</p>
-> <p>- Chinese Proverb</p>
+> <p>"The river that flows in you also flows in me."</p>
+> <p>- Kabir</p>
