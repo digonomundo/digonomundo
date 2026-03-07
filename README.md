@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The river that flows in you also flows in me."</p>
-> <p>- Kabir</p>
+> <p>"Don't blame others. it won't make you a better person."</p>
+> <p>- Lolly Daskal</p>
