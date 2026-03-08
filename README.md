@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Don't blame others. it won't make you a better person."</p>
-> <p>- Lolly Daskal</p>
+> <p>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</p>
+> <p>- Stephen King</p>
