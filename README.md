@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</p>
-> <p>- Stephen King</p>
+> <p>"The strength of a wall is neither greater nor less than the courage of the men who defend it. "</p>
+> <p>- Genghis Khan</p>
