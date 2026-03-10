@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The strength of a wall is neither greater nor less than the courage of the men who defend it. "</p>
-> <p>- Genghis Khan</p>
+> <p>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes."</p>
+> <p>- Peter Drucker</p>
