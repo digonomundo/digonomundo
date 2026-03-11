@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes."</p>
-> <p>- Peter Drucker</p>
+> <p>"Every great change is preceded by chaos."</p>
+> <p>- Deepak Chopra</p>
