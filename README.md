@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Every great change is preceded by chaos."</p>
-> <p>- Deepak Chopra</p>
+> <p>"Be brave enough to suck at something new."</p>
+> <p>- Unknown</p>
