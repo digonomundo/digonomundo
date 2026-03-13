@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Be brave enough to suck at something new."</p>
-> <p>- Unknown</p>
+> <p>"Honor is the foundation of courage."</p>
+> <p>- Amelia Earhart</p>
