@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Honor is the foundation of courage."</p>
-> <p>- Amelia Earhart</p>
+> <p>"The more we have the less we own."</p>
+> <p>- Meister Eckhart</p>
