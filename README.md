@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The more we have the less we own."</p>
-> <p>- Meister Eckhart</p>
+> <p>"I can think of nothing less pleasurable than a life devoted to pleasure."</p>
+> <p>- John D. Rockefeller</p>
