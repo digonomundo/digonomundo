@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"I can think of nothing less pleasurable than a life devoted to pleasure."</p>
-> <p>- John D. Rockefeller</p>
+> <p>"In youth we run into difficulties. In old age difficulties run into us. "</p>
+> <p>- Beverly Sills</p>
