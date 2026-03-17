@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"In youth we run into difficulties. In old age difficulties run into us. "</p>
-> <p>- Beverly Sills</p>
+> <p>"Giving back involves a certain amount of giving up."</p>
+> <p>- Colin Powell</p>
