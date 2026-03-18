@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Giving back involves a certain amount of giving up."</p>
-> <p>- Colin Powell</p>
+> <p>"Some people feel the rain. Others just get wet. "</p>
+> <p>- Bob Dylan</p>
