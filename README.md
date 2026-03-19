@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Some people feel the rain. Others just get wet. "</p>
-> <p>- Bob Dylan</p>
+> <p>"Do what you feel in your heart to be right - for you'll be criticized anyway."</p>
+> <p>- Eleanor Roosevelt</p>
