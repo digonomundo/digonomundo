@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Do what you feel in your heart to be right - for you'll be criticized anyway."</p>
-> <p>- Eleanor Roosevelt</p>
+> <p>"When people are free to do as they please, they usually imitate each other."</p>
+> <p>- Eric Hoffer</p>
