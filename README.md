@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"When people are free to do as they please, they usually imitate each other."</p>
-> <p>- Eric Hoffer</p>
+> <p>"Observe things as they are and don't pay attention to other people."</p>
+> <p>- Huang Po</p>
