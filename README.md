@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Observe things as they are and don't pay attention to other people."</p>
-> <p>- Huang Po</p>
+> <p>"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive."</p>
+> <p>- Maxime Lagace</p>
