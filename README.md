@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive."</p>
-> <p>- Maxime Lagace</p>
+> <p>"It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable."</p>
+> <p>- Elon Musk</p>
