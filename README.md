@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable."</p>
-> <p>- Elon Musk</p>
+> <p>"Peace is letting it be. Letting life flow, letting emotions flow through you."</p>
+> <p>- Kamal Ravikant</p>
