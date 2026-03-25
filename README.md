@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Peace is letting it be. Letting life flow, letting emotions flow through you."</p>
-> <p>- Kamal Ravikant</p>
+> <p>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. "</p>
+> <p>- Henry Ford</p>
