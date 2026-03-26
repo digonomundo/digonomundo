@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. "</p>
-> <p>- Henry Ford</p>
+> <p>"Ripe fruit falls by itself - but it doesn't fall in your mouth. "</p>
+> <p>- Chinese Proverb</p>
