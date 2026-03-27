@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Ripe fruit falls by itself - but it doesn't fall in your mouth. "</p>
-> <p>- Chinese Proverb</p>
+> <p>"I live by letting things happen."</p>
+> <p>- Dogen</p>
