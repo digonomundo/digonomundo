@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"I live by letting things happen."</p>
-> <p>- Dogen</p>
+> <p>"You can start changing our world for the better daily, no matter how small the action."</p>
+> <p>- Nelson Mandela</p>
