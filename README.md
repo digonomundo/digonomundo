@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"You can start changing our world for the better daily, no matter how small the action."</p>
-> <p>- Nelson Mandela</p>
+> <p>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</p>
+> <p>- Steve Harvey</p>
