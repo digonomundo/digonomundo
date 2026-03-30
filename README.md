@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</p>
-> <p>- Steve Harvey</p>
+> <p>"Where words fail, music speaks."</p>
+> <p>- Hans Christian Andersen</p>
