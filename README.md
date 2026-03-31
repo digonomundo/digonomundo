@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Where words fail, music speaks."</p>
-> <p>- Hans Christian Andersen</p>
+> <p>"Someday death will take us to another star."</p>
+> <p>- Vincent van Gogh</p>
