@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Someday death will take us to another star."</p>
-> <p>- Vincent van Gogh</p>
+> <p>"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose."</p>
+> <p>- Elbert Hubbard</p>
