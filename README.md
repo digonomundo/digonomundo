@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose."</p>
-> <p>- Elbert Hubbard</p>
+> <p>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</p>
+> <p>- Franz Kafka</p>
