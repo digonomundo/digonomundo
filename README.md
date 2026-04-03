@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</p>
-> <p>- Franz Kafka</p>
+> <p>"Perfectionism is simply putting a limit on your future."</p>
+> <p>- John Eliot</p>
