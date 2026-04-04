@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Perfectionism is simply putting a limit on your future."</p>
-> <p>- John Eliot</p>
+> <p>"Everyone sees what you appear to be, few experience what you really are."</p>
+> <p>- Niccolo Machiavelli</p>
