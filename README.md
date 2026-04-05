@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Everyone sees what you appear to be, few experience what you really are."</p>
-> <p>- Niccolo Machiavelli</p>
+> <p>"Trusting our intuition often saves us from disaster. "</p>
+> <p>- Anne Wilson Schaef</p>
