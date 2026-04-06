@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Trusting our intuition often saves us from disaster. "</p>
-> <p>- Anne Wilson Schaef</p>
+> <p>"One of the most difficult things is not to change society - but to change yourself."</p>
+> <p>- Nelson Mandela</p>
