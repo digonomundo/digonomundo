@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"One of the most difficult things is not to change society - but to change yourself."</p>
-> <p>- Nelson Mandela</p>
+> <p>"Man is affected not by events but by the view he takes of them.  "</p>
+> <p>- Seneca</p>
