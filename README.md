@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Man is affected not by events but by the view he takes of them.  "</p>
-> <p>- Seneca</p>
+> <p>"Take interest and even delight in doing the small things well."</p>
+> <p>- Jim Rohn</p>
