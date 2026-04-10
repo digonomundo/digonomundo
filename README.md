@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Take interest and even delight in doing the small things well."</p>
-> <p>- Jim Rohn</p>
+> <p>"Life begins where fear ends."</p>
+> <p>- Osho</p>
