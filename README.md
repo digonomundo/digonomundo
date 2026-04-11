@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Life begins where fear ends."</p>
-> <p>- Osho</p>
+> <p>"People seldom do what they believe in. They do what is convenient, then repent."</p>
+> <p>- Bob Dylan</p>
