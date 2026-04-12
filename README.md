@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"People seldom do what they believe in. They do what is convenient, then repent."</p>
-> <p>- Bob Dylan</p>
+> <p>"Character is the result of two things: mental attitude and the way we spend our time."</p>
+> <p>- Elbert Hubbard</p>
