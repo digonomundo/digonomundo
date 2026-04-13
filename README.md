@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Character is the result of two things: mental attitude and the way we spend our time."</p>
-> <p>- Elbert Hubbard</p>
+> <p>"The happiest people in the world are those who feel absolutely terrific about themselves."</p>
+> <p>- Brian Tracy</p>
