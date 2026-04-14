@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The happiest people in the world are those who feel absolutely terrific about themselves."</p>
-> <p>- Brian Tracy</p>
+> <p>"Admire as much as you can. Most people do not admire enough."</p>
+> <p>- Vincent van Gogh</p>
