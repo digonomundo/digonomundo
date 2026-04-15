@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Admire as much as you can. Most people do not admire enough."</p>
-> <p>- Vincent van Gogh</p>
+> <p>"He who fails to plan, plans to fail."</p>
+> <p>- Unknown</p>
