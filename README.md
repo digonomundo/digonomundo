@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"He who fails to plan, plans to fail."</p>
-> <p>- Unknown</p>
+> <p>"Nothing brings down walls as surely as acceptance."</p>
+> <p>- Deepak Chopra</p>
