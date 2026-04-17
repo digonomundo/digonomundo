@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Nothing brings down walls as surely as acceptance."</p>
-> <p>- Deepak Chopra</p>
+> <p>"How much pain they have cost us, the evils which have never happened."</p>
+> <p>- Thomas Jefferson</p>
