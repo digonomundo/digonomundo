@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"How much pain they have cost us, the evils which have never happened."</p>
-> <p>- Thomas Jefferson</p>
+> <p>"I have never in my life learned anything from any man who agreed with me."</p>
+> <p>- Dudley Field Malone</p>
