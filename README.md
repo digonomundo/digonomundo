@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"I have never in my life learned anything from any man who agreed with me."</p>
-> <p>- Dudley Field Malone</p>
+> <p>"I've always lived in the moment."</p>
+> <p>- Yanni</p>
