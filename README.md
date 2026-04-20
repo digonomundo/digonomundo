@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"I've always lived in the moment."</p>
-> <p>- Yanni</p>
+> <p>"Care about what other people think and you will always be their prisoner."</p>
+> <p>- Lao Tzu</p>
