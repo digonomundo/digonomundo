@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Care about what other people think and you will always be their prisoner."</p>
-> <p>- Lao Tzu</p>
+> <p>"Remember that sometimes not getting what you want is a wonderful stroke of luck."</p>
+> <p>- Dalai Lama</p>
