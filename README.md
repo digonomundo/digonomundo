@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Remember that sometimes not getting what you want is a wonderful stroke of luck."</p>
-> <p>- Dalai Lama</p>
+> <p>"You are the sky. Everything else - it's just the weather."</p>
+> <p>- Pema Chodron</p>
