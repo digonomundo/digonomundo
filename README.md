@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"You are the sky. Everything else - it's just the weather."</p>
-> <p>- Pema Chodron</p>
+> <p>"Life is filled with secrets. You can't learn them all at once."</p>
+> <p>- Dan Brown</p>
