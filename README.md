@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Life is filled with secrets. You can't learn them all at once."</p>
-> <p>- Dan Brown</p>
+> <p>"The important thing is not what one is born with but what use one makes of that equipment."</p>
+> <p>- Alfred Adler</p>
