@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The important thing is not what one is born with but what use one makes of that equipment."</p>
-> <p>- Alfred Adler</p>
+> <p>"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</p>
+> <p>- Colin Powell</p>
