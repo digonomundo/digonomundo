@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</p>
-> <p>- Colin Powell</p>
+> <p>"It is better to be looked over than overlooked."</p>
+> <p>- Mae West</p>
