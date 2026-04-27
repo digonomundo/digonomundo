@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"It is better to be looked over than overlooked."</p>
-> <p>- Mae West</p>
+> <p>"Life becomes easier and more beautiful when we can see the good in other people."</p>
+> <p>- Roy T. Bennett</p>
