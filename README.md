@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Life becomes easier and more beautiful when we can see the good in other people."</p>
-> <p>- Roy T. Bennett</p>
+> <p>"Luck is what happens when preparation meets opportunity.  "</p>
+> <p>- Seneca</p>
