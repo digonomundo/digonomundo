@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Luck is what happens when preparation meets opportunity.  "</p>
-> <p>- Seneca</p>
+> <p>"Fools read fast. Geniuses reread."</p>
+> <p>- Maxime Lagace</p>
