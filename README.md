@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Fools read fast. Geniuses reread."</p>
-> <p>- Maxime Lagace</p>
+> <p>"The person who never made a mistake never tried anything new."</p>
+> <p>- Albert Einstein</p>
