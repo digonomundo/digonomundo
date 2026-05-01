@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The person who never made a mistake never tried anything new."</p>
-> <p>- Albert Einstein</p>
+> <p>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</p>
+> <p>- D. H. Lawrence</p>
