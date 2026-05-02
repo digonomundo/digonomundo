@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</p>
-> <p>- D. H. Lawrence</p>
+> <p>"You need to be doing fewer things for more effect instead of doing more things with side effects."</p>
+> <p>- Gary Keller</p>
