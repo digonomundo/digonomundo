@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"You need to be doing fewer things for more effect instead of doing more things with side effects."</p>
-> <p>- Gary Keller</p>
+> <p>"The universe doesn't allow perfection."</p>
+> <p>- Stephen Hawking</p>
