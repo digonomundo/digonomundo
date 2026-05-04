@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The universe doesn't allow perfection."</p>
-> <p>- Stephen Hawking</p>
+> <p>"Difficult roads often lead to beautiful destinations."</p>
+> <p>- Unknown</p>
