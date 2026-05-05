@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Difficult roads often lead to beautiful destinations."</p>
-> <p>- Unknown</p>
+> <p>"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."</p>
+> <p>- Dan Millman</p>
