@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."</p>
-> <p>- Dan Millman</p>
+> <p>"Keep your face to the sunshine and you cannot see the shadows."</p>
+> <p>- Helen Keller</p>
