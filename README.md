@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward."</p>
-> <p>- Roy T. Bennett</p>
+> <p>"A fool sees himself as another, but a wise man sees others as himself."</p>
+> <p>- Dogen</p>
