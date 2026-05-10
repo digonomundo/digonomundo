@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"A fool sees himself as another, but a wise man sees others as himself."</p>
-> <p>- Dogen</p>
+> <p>"If you tell the truth, you don't have to remember anything."</p>
+> <p>- Mark Twain</p>
