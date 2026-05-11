@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you tell the truth, you don't have to remember anything."</p>
-> <p>- Mark Twain</p>
+> <p>"Anger exceeding limits causes fear and excessive kindness eliminates respect."</p>
+> <p>- Euripides</p>
