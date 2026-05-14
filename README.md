@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live."</p>
-> <p>- Nicolas Chamfort</p>
+> <p>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</p>
+> <p>- George Eliot</p>
