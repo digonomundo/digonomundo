@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</p>
-> <p>- George Eliot</p>
+> <p>"Life is like stepping onto a boat which is about to sail out to sea and sink."</p>
+> <p>- Shunryu Suzuki</p>
