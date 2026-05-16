@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Life is like stepping onto a boat which is about to sail out to sea and sink."</p>
-> <p>- Shunryu Suzuki</p>
+> <p>"Life is a long lesson in humility. "</p>
+> <p>- James Matthew Barrie</p>
