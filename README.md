@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Life is a long lesson in humility. "</p>
-> <p>- James Matthew Barrie</p>
+> <p>"Why live an ordinary life, when you can live an extraordinary one."</p>
+> <p>- Tony Robbins</p>
