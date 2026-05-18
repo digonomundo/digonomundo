@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Why live an ordinary life, when you can live an extraordinary one."</p>
-> <p>- Tony Robbins</p>
+> <p>"No matter what happens, always be yourself."</p>
+> <p>- Dale Carnegie</p>
