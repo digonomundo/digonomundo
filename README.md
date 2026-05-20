@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window."</p>
-> <p>- Peter Drucker</p>
+> <p>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."</p>
+> <p>- Joan Rivers</p>
