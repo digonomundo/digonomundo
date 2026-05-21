@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."</p>
-> <p>- Joan Rivers</p>
+> <p>"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."</p>
+> <p>- Lao Tzu</p>
