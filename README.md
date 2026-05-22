@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."</p>
-> <p>- Lao Tzu</p>
+> <p>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</p>
+> <p>- James Allen</p>
