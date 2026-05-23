@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</p>
-> <p>- James Allen</p>
+> <p>"To know your Enemy, you must become your Enemy."</p>
+> <p>- Sun Tzu</p>
