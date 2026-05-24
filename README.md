@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"To know your Enemy, you must become your Enemy."</p>
-> <p>- Sun Tzu</p>
+> <p>"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking."</p>
+> <p>- Johann Wolfgang von Goethe</p>
