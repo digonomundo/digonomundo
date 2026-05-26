@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Short cuts make long delays."</p>
-> <p>- J.R.R. Tolkien</p>
+> <p>"Believe in one thing too much and you have no room for new ideas."</p>
+> <p>- Ray Bradbury</p>
