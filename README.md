@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Believe in one thing too much and you have no room for new ideas."</p>
-> <p>- Ray Bradbury</p>
+> <p>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</p>
+> <p>- Alan Watts</p>
