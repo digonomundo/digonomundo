@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</p>
-> <p>- Alan Watts</p>
+> <p>"Be fascinated instead of frustrated."</p>
+> <p>- Jim Rohn</p>
