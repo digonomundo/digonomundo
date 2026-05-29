@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Be fascinated instead of frustrated."</p>
-> <p>- Jim Rohn</p>
+> <p>"Turn your face to the sun, as flowers know how to do."</p>
+> <p>- Ming-Dao Deng</p>
