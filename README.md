@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Turn your face to the sun, as flowers know how to do."</p>
-> <p>- Ming-Dao Deng</p>
+> <p>"Listening well is as powerful as talking well, and is also as essential to true conversation."</p>
+> <p>- Chinese Proverb</p>
