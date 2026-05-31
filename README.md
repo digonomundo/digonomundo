@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Listening well is as powerful as talking well, and is also as essential to true conversation."</p>
-> <p>- Chinese Proverb</p>
+> <p>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it."</p>
+> <p>- Vincent van Gogh</p>
