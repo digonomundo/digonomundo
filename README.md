@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it."</p>
-> <p>- Vincent van Gogh</p>
+> <p>"Good entrepreneurs don't fail because they stay at it."</p>
+> <p>- Naval Ravikant</p>
