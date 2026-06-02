@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Good entrepreneurs don't fail because they stay at it."</p>
-> <p>- Naval Ravikant</p>
+> <p>"You can discover what your enemy fears most by observing the means he uses to frighten you."</p>
+> <p>- Eric Hoffer</p>
