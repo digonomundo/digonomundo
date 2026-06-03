@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"You can discover what your enemy fears most by observing the means he uses to frighten you."</p>
-> <p>- Eric Hoffer</p>
+> <p>"The right thing to do and the hard thing to do are usually the same."</p>
+> <p>- Steve Maraboli</p>
