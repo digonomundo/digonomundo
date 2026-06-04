@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The right thing to do and the hard thing to do are usually the same."</p>
-> <p>- Steve Maraboli</p>
+> <p>"Anger exceeding limits causes fear and excessive kindness eliminates respect."</p>
+> <p>- Euripides</p>
