@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Anger exceeding limits causes fear and excessive kindness eliminates respect."</p>
-> <p>- Euripides</p>
+> <p>"The greatest value of a picture is when it forces us to notice what we never expected to see."</p>
+> <p>- John Tukey</p>
