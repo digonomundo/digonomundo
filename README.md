@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"All great truths begin as blasphemies."</p>
-> <p>- George Bernard Shaw</p>
+> <p>"Although the world is full of suffering, it is also full of the overcoming of it."</p>
+> <p>- Helen Keller</p>
