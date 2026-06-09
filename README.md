@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Although the world is full of suffering, it is also full of the overcoming of it."</p>
-> <p>- Helen Keller</p>
+> <p>"The quality, not the longevity, of one's life is what is important."</p>
+> <p>- Martin Luther King, Jr.</p>
