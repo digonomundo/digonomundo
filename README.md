@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The quality, not the longevity, of one's life is what is important."</p>
-> <p>- Martin Luther King, Jr.</p>
+> <p>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</p>
+> <p>- Ayn Rand</p>
