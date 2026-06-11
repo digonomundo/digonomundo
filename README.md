@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</p>
-> <p>- Ayn Rand</p>
+> <p>"If you are lucky enough to find love, remember it is there and don't throw it away."</p>
+> <p>- Stephen Hawking</p>
