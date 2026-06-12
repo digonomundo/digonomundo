@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you are lucky enough to find love, remember it is there and don't throw it away."</p>
-> <p>- Stephen Hawking</p>
+> <p>"Keep your face to the sunshine and you cannot see the shadows."</p>
+> <p>- Helen Keller</p>
