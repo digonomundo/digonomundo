@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Keep your face to the sunshine and you cannot see the shadows."</p>
-> <p>- Helen Keller</p>
+> <p>"Words are clothes that thoughts wear"</p>
+> <p>- Samuel Butler</p>
