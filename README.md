@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way."</p>
-> <p>- Osho</p>
+> <p>"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."</p>
+> <p>- Tony Robbins</p>
