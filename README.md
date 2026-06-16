@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."</p>
-> <p>- Tony Robbins</p>
+> <p>"Problems remain as problems because people are busy defending them rather than finding solutions."</p>
+> <p>- Celestine Chua</p>
