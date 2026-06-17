@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Problems remain as problems because people are busy defending them rather than finding solutions."</p>
-> <p>- Celestine Chua</p>
+> <p>"Absence makes the heart grow fonder."</p>
+> <p>- Eleanor Roosevelt</p>
