@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Absence makes the heart grow fonder."</p>
-> <p>- Eleanor Roosevelt</p>
+> <p>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."</p>
+> <p>- Samuel Beckett</p>
