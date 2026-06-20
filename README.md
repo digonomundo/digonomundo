@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."</p>
-> <p>- Samuel Beckett</p>
+> <p>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful."</p>
+> <p>- Estee Lauder</p>
