@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful."</p>
-> <p>- Estee Lauder</p>
+> <p>"Well done is better than well said."</p>
+> <p>- Benjamin Franklin</p>
