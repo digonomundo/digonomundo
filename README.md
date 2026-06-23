@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</p>
-> <p>- Huang Po</p>
+> <p>"The ego wants to go fast. The soul needs to go slow."</p>
+> <p>- Maxime Lagace</p>
