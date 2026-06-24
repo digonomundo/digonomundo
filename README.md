@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The ego wants to go fast. The soul needs to go slow."</p>
-> <p>- Maxime Lagace</p>
+> <p>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."</p>
+> <p>- Denis Waitley</p>
