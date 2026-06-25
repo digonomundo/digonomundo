@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."</p>
-> <p>- Denis Waitley</p>
+> <p>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</p>
+> <p>- George Eliot</p>
