@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</p>
-> <p>- George Eliot</p>
+> <p>"A heart is not judged by how much you love, but by how much you are loved by others."</p>
+> <p>- Judy Garland</p>
