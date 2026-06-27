@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"A heart is not judged by how much you love, but by how much you are loved by others."</p>
-> <p>- Judy Garland</p>
+> <p>"Act the way you want to be and soon you'll be the way you act."</p>
+> <p>- Les Brown</p>
