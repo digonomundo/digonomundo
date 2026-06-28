@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Act the way you want to be and soon you'll be the way you act."</p>
-> <p>- Les Brown</p>
+> <p>"Do every act of your life as if it were your last."</p>
+> <p>- Marcus Aurelius</p>
