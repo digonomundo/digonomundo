@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Do every act of your life as if it were your last."</p>
-> <p>- Marcus Aurelius</p>
+> <p>"Goodness is the only investment that never fails."</p>
+> <p>- Henry David Thoreau</p>
