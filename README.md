@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The older you get, the better you get. Unless you're a banana."</p>
-> <p>- Betty White</p>
+> <p>"The future belongs to those who learn more skills and combine them in creative ways."</p>
+> <p>- Robert Greene</p>
