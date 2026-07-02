@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The future belongs to those who learn more skills and combine them in creative ways."</p>
-> <p>- Robert Greene</p>
+> <p>"Riches don't make a man rich, they only make him busier."</p>
+> <p>- Christopher Columbus</p>
