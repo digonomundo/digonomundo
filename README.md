@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Riches don't make a man rich, they only make him busier."</p>
-> <p>- Christopher Columbus</p>
+> <p>"Even in the grave, all is not lost."</p>
+> <p>- Edgar Allan Poe</p>
