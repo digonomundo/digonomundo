@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Even in the grave, all is not lost."</p>
-> <p>- Edgar Allan Poe</p>
+> <p>"You do not read a book for the book's sake, but for your own."</p>
+> <p>- Earl Nightingale</p>
