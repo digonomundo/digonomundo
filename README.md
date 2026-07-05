@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"You do not read a book for the book's sake, but for your own."</p>
-> <p>- Earl Nightingale</p>
+> <p>"Never say never, because limits, like fears, are often just an illusion."</p>
+> <p>- Michael Jordan</p>
