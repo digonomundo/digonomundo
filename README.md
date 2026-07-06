@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Never say never, because limits, like fears, are often just an illusion."</p>
-> <p>- Michael Jordan</p>
+> <p>"Never settle for the crumbs of life."</p>
+> <p>- Og Mandino</p>
