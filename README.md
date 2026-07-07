@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Never settle for the crumbs of life."</p>
-> <p>- Og Mandino</p>
+> <p>"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance."</p>
+> <p>- Kamal Ravikant</p>
