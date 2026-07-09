@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Don't shortchange yourself when it comes to investing in your own better future."</p>
-> <p>- Jim Rohn</p>
+> <p>"If you cannot understand something, then you have understood it incorrectly."</p>
+> <p>- Kabir</p>
