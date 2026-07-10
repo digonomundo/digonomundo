@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you cannot understand something, then you have understood it incorrectly."</p>
-> <p>- Kabir</p>
+> <p>"Everyone is a moon, and has a dark side which he never shows to anybody."</p>
+> <p>- Mark Twain</p>
