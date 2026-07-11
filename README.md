@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Everyone is a moon, and has a dark side which he never shows to anybody."</p>
-> <p>- Mark Twain</p>
+> <p>"Being wrong brings the opportunity for growth."</p>
+> <p>- Mark Manson</p>
