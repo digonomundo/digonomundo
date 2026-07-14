@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"It is easier to put leather on the soles of one's feet than cover the world with leather."</p>
-> <p>- Tibetan Proverb</p>
+> <p>"Argue for your limitations and sure enough, they're yours."</p>
+> <p>- Richard Bach</p>
