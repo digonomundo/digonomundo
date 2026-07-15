@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Argue for your limitations and sure enough, they're yours."</p>
-> <p>- Richard Bach</p>
+> <p>"Closing your eyes and listening to silence is self-care."</p>
+> <p>- Maxime Lagace</p>
