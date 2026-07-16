@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Closing your eyes and listening to silence is self-care."</p>
-> <p>- Maxime Lagace</p>
+> <p>"The energy of the mind is the essence of life."</p>
+> <p>- Aristotle</p>
