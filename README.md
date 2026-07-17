@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The energy of the mind is the essence of life."</p>
-> <p>- Aristotle</p>
+> <p>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</p>
+> <p>- Celestine Chua</p>
