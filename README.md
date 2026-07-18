@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</p>
-> <p>- Celestine Chua</p>
+> <p>"We must embrace pain and burn it as fuel for our journey."</p>
+> <p>- Kenji Miyazawa</p>
