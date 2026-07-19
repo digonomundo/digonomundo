@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"We must embrace pain and burn it as fuel for our journey."</p>
-> <p>- Kenji Miyazawa</p>
+> <p>"Boldness makes even the smallest animal dangerous."</p>
+> <p>- Robert Greene</p>
