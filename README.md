@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Boldness makes even the smallest animal dangerous."</p>
-> <p>- Robert Greene</p>
+> <p>"Judge your success by what you had to give up in order to get it."</p>
+> <p>- Dalai Lama</p>
