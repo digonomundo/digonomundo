@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Judge your success by what you had to give up in order to get it."</p>
-> <p>- Dalai Lama</p>
+> <p>"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."</p>
+> <p>- Norman Vincent Peale</p>
