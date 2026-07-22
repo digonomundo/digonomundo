@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."</p>
-> <p>- Norman Vincent Peale</p>
+> <p>"Making your mark on the world is hard. If it were easy, everybody would do it."</p>
+> <p>- Barack Obama</p>
