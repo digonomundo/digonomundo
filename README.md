@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Making your mark on the world is hard. If it were easy, everybody would do it."</p>
-> <p>- Barack Obama</p>
+> <p>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</p>
+> <p>- Robert Greene</p>
