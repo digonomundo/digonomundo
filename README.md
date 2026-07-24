@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</p>
-> <p>- Robert Greene</p>
+> <p>"Life is like stepping onto a boat which is about to sail out to sea and sink."</p>
+> <p>- Shunryu Suzuki</p>
