@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Life is like stepping onto a boat which is about to sail out to sea and sink."</p>
-> <p>- Shunryu Suzuki</p>
+> <p>"Getting lost along your path is a part of finding the path you are meant to be on."</p>
+> <p>- Robin Sharma</p>
