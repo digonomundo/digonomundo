@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Getting lost along your path is a part of finding the path you are meant to be on."</p>
-> <p>- Robin Sharma</p>
+> <p>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."</p>
+> <p>- Norman Vincent Peale</p>
