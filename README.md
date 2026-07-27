@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."</p>
-> <p>- Norman Vincent Peale</p>
+> <p>"Do one thing every day that scares you."</p>
+> <p>- Eleanor Roosevelt</p>
