@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Do one thing every day that scares you."</p>
-> <p>- Eleanor Roosevelt</p>
+> <p>"Everybody by your side ain't on your side."</p>
+> <p>- Steve Harvey</p>
