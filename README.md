@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Everybody by your side ain't on your side."</p>
-> <p>- Steve Harvey</p>
+> <p>"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."</p>
+> <p>- Pema Chodron</p>
