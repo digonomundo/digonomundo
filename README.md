@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."</p>
-> <p>- Pema Chodron</p>
+> <p>"Time stays long enough for anyone who will use it."</p>
+> <p>- Leonardo da Vinci</p>
