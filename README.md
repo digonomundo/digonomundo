@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Time stays long enough for anyone who will use it."</p>
-> <p>- Leonardo da Vinci</p>
+> <p>"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future."</p>
+> <p>- Nicolas Chamfort</p>
