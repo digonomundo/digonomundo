@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future."</p>
-> <p>- Nicolas Chamfort</p>
+> <p>"Don't let what you cannot do interfere with what you can do."</p>
+> <p>- John Wooden</p>
