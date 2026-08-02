@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Don't let what you cannot do interfere with what you can do."</p>
-> <p>- John Wooden</p>
+> <p>"Comedy = tragedy + time."</p>
+> <p>- Carol Burnett</p>
