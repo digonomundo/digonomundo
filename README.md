@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Comedy = tragedy + time."</p>
-> <p>- Carol Burnett</p>
+> <p>"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way."</p>
+> <p>- Osho</p>
