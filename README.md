@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Saying nothing sometimes says the most."</p>
-> <p>- Emily Dickinson</p>
+> <p>"To every action there is always opposed an equal reaction."</p>
+> <p>- Isaac Newton</p>
