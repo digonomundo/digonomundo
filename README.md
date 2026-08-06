@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"To every action there is always opposed an equal reaction."</p>
-> <p>- Isaac Newton</p>
+> <p>"Why live an ordinary life, when you can live an extraordinary one."</p>
+> <p>- Tony Robbins</p>
