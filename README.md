@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Why live an ordinary life, when you can live an extraordinary one."</p>
-> <p>- Tony Robbins</p>
+> <p>"Anything you may hold firmly in your imagination can be yours."</p>
+> <p>- William James</p>
