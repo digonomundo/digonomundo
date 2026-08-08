@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Anything you may hold firmly in your imagination can be yours."</p>
-> <p>- William James</p>
+> <p>"Focus on how far you have come in life rather than looking at the accomplishments of others."</p>
+> <p>- Lolly Daskal</p>
