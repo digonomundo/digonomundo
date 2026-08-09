@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Focus on how far you have come in life rather than looking at the accomplishments of others."</p>
-> <p>- Lolly Daskal</p>
+> <p>"With self-discipline, almost anything is possible."</p>
+> <p>- Theodore Roosevelt</p>
