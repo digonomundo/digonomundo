@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"With self-discipline, almost anything is possible."</p>
-> <p>- Theodore Roosevelt</p>
+> <p>"The world doesn't always give you want, but it often gives you what you need."</p>
+> <p>- Naval Ravikant</p>
