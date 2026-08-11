@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The world doesn't always give you want, but it often gives you what you need."</p>
-> <p>- Naval Ravikant</p>
+> <p>"One must be deeply aware of the impermanence of the world."</p>
+> <p>- Dogen</p>
