@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"One must be deeply aware of the impermanence of the world."</p>
-> <p>- Dogen</p>
+> <p>"The best of us sometimes eat our words."</p>
+> <p>- Albus Dumbledore</p>
