@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The quieter you become, the more you are able to hear."</p>
-> <p>- Rumi</p>
+> <p>"When the root is strong, the fruit is sweet."</p>
+> <p>- Bob Marley</p>
