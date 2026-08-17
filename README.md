@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"When the root is strong, the fruit is sweet."</p>
-> <p>- Bob Marley</p>
+> <p>"Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer."</p>
+> <p>- J.R.R. Tolkien</p>
