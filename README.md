@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer."</p>
-> <p>- J.R.R. Tolkien</p>
+> <p>"Those who are possessed by nothing possess everything."</p>
+> <p>- Morihei Ueshiba</p>
