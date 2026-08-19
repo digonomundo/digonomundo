@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Those who are possessed by nothing possess everything."</p>
-> <p>- Morihei Ueshiba</p>
+> <p>"From the errors of others, a wise man corrects his own."</p>
+> <p>- Publilius Syrus</p>
