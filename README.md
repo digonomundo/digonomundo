@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"From the errors of others, a wise man corrects his own."</p>
+> <p>"The sweetest pleasure arises from difficulties overcome."</p>
 > <p>- Publilius Syrus</p>
