@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The sweetest pleasure arises from difficulties overcome."</p>
-> <p>- Publilius Syrus</p>
+> <p>"Whatever you decide to do, make sure it makes you happy."</p>
+> <p>- Paulo Coelho</p>
