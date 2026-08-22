@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Whatever you decide to do, make sure it makes you happy."</p>
-> <p>- Paulo Coelho</p>
+> <p>"It is our choices that show what we truly are, far more than our abilities."</p>
+> <p>- Albus Dumbledore</p>
