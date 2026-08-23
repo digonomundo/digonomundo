@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"It is our choices that show what we truly are, far more than our abilities."</p>
-> <p>- Albus Dumbledore</p>
+> <p>"To do two things at once is to do neither."</p>
+> <p>- Publilius Syrus</p>
