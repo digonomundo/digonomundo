@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"To do two things at once is to do neither."</p>
-> <p>- Publilius Syrus</p>
+> <p>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</p>
+> <p>- Seungsahn</p>
