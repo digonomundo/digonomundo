@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</p>
-> <p>- Seungsahn</p>
+> <p>"There is no absolute success in the world, only constant progress."</p>
+> <p>- Jonathan Swift</p>
