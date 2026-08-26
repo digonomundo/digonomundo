@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"There is no absolute success in the world, only constant progress."</p>
-> <p>- Jonathan Swift</p>
+> <p>"To lead an orchestra, you must turn your back on the crowd."</p>
+> <p>- Aristotle</p>
