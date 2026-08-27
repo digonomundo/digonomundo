@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"To lead an orchestra, you must turn your back on the crowd."</p>
-> <p>- Aristotle</p>
+> <p>"Empty yourself of everything - let the mind become still."</p>
+> <p>- Lao Tzu</p>
