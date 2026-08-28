@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Empty yourself of everything - let the mind become still."</p>
-> <p>- Lao Tzu</p>
+> <p>"Keep others in suspense, cultivate an air of unpredictability."</p>
+> <p>- Robert Greene</p>
