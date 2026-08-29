@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Keep others in suspense, cultivate an air of unpredictability."</p>
-> <p>- Robert Greene</p>
+> <p>"Correct what you can. Learn from what you can't."</p>
+> <p>- Toni Morrison</p>
