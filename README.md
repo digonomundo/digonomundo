@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Correct what you can. Learn from what you can't."</p>
-> <p>- Toni Morrison</p>
+> <p>"Fear not the path of Truth for the lack of People walking on it."</p>
+> <p>- Robert F. Kennedy</p>
