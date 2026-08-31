@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Fear not the path of Truth for the lack of People walking on it."</p>
-> <p>- Robert F. Kennedy</p>
+> <p>"Change is not a four letter word...but often your reaction to it is!"</p>
+> <p>- Jeffrey Gitomer</p>
