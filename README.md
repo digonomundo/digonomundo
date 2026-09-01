@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Change is not a four letter word...but often your reaction to it is!"</p>
-> <p>- Jeffrey Gitomer</p>
+> <p>"The traveler sees what he sees. The tourist sees what he has come to see."</p>
+> <p>- Gilbert Chesterton</p>
