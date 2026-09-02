@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The traveler sees what he sees. The tourist sees what he has come to see."</p>
-> <p>- Gilbert Chesterton</p>
+> <p>"You can never get enough of what you don't need to make you happy."</p>
+> <p>- Eric Hoffer</p>
