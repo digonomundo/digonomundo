@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"You can never get enough of what you don't need to make you happy."</p>
-> <p>- Eric Hoffer</p>
+> <p>"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."</p>
+> <p>- Nelson Mandela</p>
