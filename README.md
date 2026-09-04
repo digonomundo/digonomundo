@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."</p>
-> <p>- Nelson Mandela</p>
+> <p>"Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death."</p>
+> <p>- Socrates</p>
