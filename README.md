@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Stop being tormented by everyone else's reaction to you."</p>
-> <p>- Joyce Meyer</p>
+> <p>"Make your mind your own business."</p>
+> <p>- Jack Butcher</p>
