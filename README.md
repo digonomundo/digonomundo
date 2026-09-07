@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Make your mind your own business."</p>
-> <p>- Jack Butcher</p>
+> <p>"Even though you are on the right track - you will get run over if you just sit there."</p>
+> <p>- Will Rogers</p>
