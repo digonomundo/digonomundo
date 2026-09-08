@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Even though you are on the right track - you will get run over if you just sit there."</p>
-> <p>- Will Rogers</p>
+> <p>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</p>
+> <p>- Thomas Jefferson</p>
