@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</p>
-> <p>- Thomas Jefferson</p>
+> <p>"Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time."</p>
+> <p>- Jon Kabat-Zinn</p>
