@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time."</p>
-> <p>- Jon Kabat-Zinn</p>
+> <p>"To avoid criticism, do nothing, say nothing, and be nothing."</p>
+> <p>- Elbert Hubbard</p>
