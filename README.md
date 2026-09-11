@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"To avoid criticism, do nothing, say nothing, and be nothing."</p>
-> <p>- Elbert Hubbard</p>
+> <p>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</p>
+> <p>- James Allen</p>
