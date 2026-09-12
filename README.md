@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</p>
-> <p>- James Allen</p>
+> <p>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</p>
+> <p>- Elon Musk</p>
