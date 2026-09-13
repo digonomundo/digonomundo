@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</p>
-> <p>- Elon Musk</p>
+> <p>"It is in changing that we find purpose."</p>
+> <p>- Heraclitus</p>
