@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"It is in changing that we find purpose."</p>
-> <p>- Heraclitus</p>
+> <p>"Many a man has failed because he had his wishbone where his backbone should have been."</p>
+> <p>- Ronald Reagan</p>
