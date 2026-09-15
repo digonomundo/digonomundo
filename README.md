@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Many a man has failed because he had his wishbone where his backbone should have been."</p>
-> <p>- Ronald Reagan</p>
+> <p>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</p>
+> <p>- Yanni</p>
