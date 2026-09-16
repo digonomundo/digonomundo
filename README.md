@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</p>
-> <p>- Yanni</p>
+> <p>"He who hesitates is a damned fool."</p>
+> <p>- Mae West</p>
