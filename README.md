@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"He who is not contented with what he has, would not be contented with what he would like to have."</p>
-> <p>- Socrates</p>
+> <p>"Help others achieve their dreams and you will achieve yours."</p>
+> <p>- Les Brown</p>
