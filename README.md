@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Help others achieve their dreams and you will achieve yours."</p>
-> <p>- Les Brown</p>
+> <p>"A crisis is an opportunity riding the dangerous wind."</p>
+> <p>- Chinese Proverb</p>
