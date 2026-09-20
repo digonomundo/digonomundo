@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"A crisis is an opportunity riding the dangerous wind."</p>
-> <p>- Chinese Proverb</p>
+> <p>"Circumstances rule men; men do not rule circumstances."</p>
+> <p>- Herodotus</p>
