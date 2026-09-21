@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Circumstances rule men; men do not rule circumstances."</p>
-> <p>- Herodotus</p>
+> <p>"It is not the knowing that is difficult, but the doing."</p>
+> <p>- Chinese Proverb</p>
