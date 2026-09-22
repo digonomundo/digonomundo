@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"It is not the knowing that is difficult, but the doing."</p>
-> <p>- Chinese Proverb</p>
+> <p>"Don't seek, don't avoid, don't expect. Take what comes and be happy."</p>
+> <p>- Maxime Lagace</p>
