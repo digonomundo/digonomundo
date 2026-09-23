@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Don't seek, don't avoid, don't expect. Take what comes and be happy."</p>
-> <p>- Maxime Lagace</p>
+> <p>"It is often safer to be in chains than to be free."</p>
+> <p>- Franz Kafka</p>
