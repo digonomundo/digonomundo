@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"It is often safer to be in chains than to be free."</p>
-> <p>- Franz Kafka</p>
+> <p>"It all depends on what you choose to believe."</p>
+> <p>- Spencer Johnson</p>
