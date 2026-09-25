@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"It all depends on what you choose to believe."</p>
-> <p>- Spencer Johnson</p>
+> <p>"A leader leads by example, not by force."</p>
+> <p>- Sun Tzu</p>
