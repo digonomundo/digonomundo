@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"A leader leads by example, not by force."</p>
-> <p>- Sun Tzu</p>
+> <p>"The greatest test of courage on earth is to bear defeat without losing heart."</p>
+> <p>- Robert Greene</p>
