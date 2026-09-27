@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The greatest test of courage on earth is to bear defeat without losing heart."</p>
-> <p>- Robert Greene</p>
+> <p>"Leaders think and talk about solutions. Followers think and talk about the problems."</p>
+> <p>- Brian Tracy</p>
