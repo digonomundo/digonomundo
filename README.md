@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Leaders think and talk about solutions. Followers think and talk about the problems."</p>
-> <p>- Brian Tracy</p>
+> <p>"Begin now to be what you will be hereafter."</p>
+> <p>- St. Jerome</p>
