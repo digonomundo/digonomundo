@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Begin now to be what you will be hereafter."</p>
-> <p>- St. Jerome</p>
+> <p>"Not all readers are leaders, but all leaders are readers."</p>
+> <p>- Harry S. Truman</p>
