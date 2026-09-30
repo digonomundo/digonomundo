@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Not all readers are leaders, but all leaders are readers."</p>
-> <p>- Harry S. Truman</p>
+> <p>"He who can, does."</p>
+> <p>- George Bernard Shaw</p>
