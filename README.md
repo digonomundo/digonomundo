@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"He who can, does."</p>
-> <p>- George Bernard Shaw</p>
+> <p>"When you know what you want, and want it bad enough, you will find a way to get it."</p>
+> <p>- Jim Rohn</p>
