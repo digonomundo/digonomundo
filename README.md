@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"When you know what you want, and want it bad enough, you will find a way to get it."</p>
-> <p>- Jim Rohn</p>
+> <p>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</p>
+> <p>- Elvis Presley</p>
