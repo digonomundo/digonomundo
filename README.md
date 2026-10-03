@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</p>
-> <p>- Elvis Presley</p>
+> <p>"I dream my painting and I paint my dream."</p>
+> <p>- Vincent van Gogh</p>
