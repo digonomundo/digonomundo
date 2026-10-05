@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Good things aren't supposed to just fall into your lap."</p>
-> <p>- Audrey Hepburn</p>
+> <p>"The soul without imagination is what an observatory would be without a telescope."</p>
+> <p>- Henry Ward Beecher</p>
