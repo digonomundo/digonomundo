@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The soul without imagination is what an observatory would be without a telescope."</p>
-> <p>- Henry Ward Beecher</p>
+> <p>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</p>
+> <p>- Oprah Winfrey</p>
