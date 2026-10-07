@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</p>
-> <p>- Oprah Winfrey</p>
+> <p>"Supreme excellence consists of breaking the enemy's resistance without fighting."</p>
+> <p>- Sun Tzu</p>
