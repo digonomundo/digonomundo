@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Supreme excellence consists of breaking the enemy's resistance without fighting."</p>
-> <p>- Sun Tzu</p>
+> <p>"Ability is a poor man's wealth."</p>
+> <p>- John Wooden</p>
