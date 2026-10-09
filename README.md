@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Ability is a poor man's wealth."</p>
-> <p>- John Wooden</p>
+> <p>"The destiny of man is in his own soul."</p>
+> <p>- Herodotus</p>
