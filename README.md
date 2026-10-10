@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The destiny of man is in his own soul."</p>
-> <p>- Herodotus</p>
+> <p>"Enjoy when you can, and endure when you must."</p>
+> <p>- Johann Wolfgang von Goethe</p>
