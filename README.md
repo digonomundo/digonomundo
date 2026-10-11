@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Enjoy when you can, and endure when you must."</p>
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>"A dead thing can go with the stream, but only a living thing can go against it."</p>
+> <p>- Gilbert Chesterton</p>
