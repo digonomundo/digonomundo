@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"A dead thing can go with the stream, but only a living thing can go against it."</p>
-> <p>- Gilbert Chesterton</p>
+> <p>"Every day do something that will inch you closer to a better tomorrow."</p>
+> <p>- Unknown</p>
