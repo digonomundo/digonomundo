@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Every day do something that will inch you closer to a better tomorrow."</p>
-> <p>- Unknown</p>
+> <p>"To lose your temper is only useful once a year."</p>
+> <p>- Colin R. Davis</p>
