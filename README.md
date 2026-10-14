@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"To lose your temper is only useful once a year."</p>
-> <p>- Colin R. Davis</p>
+> <p>"The mind is the limit."</p>
+> <p>- Arnold Schwarzenegger</p>
