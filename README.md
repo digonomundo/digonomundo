@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The mind is the limit."</p>
-> <p>- Arnold Schwarzenegger</p>
+> <p>"There are two things a person should never be angry at, what they can help, and what they cannot."</p>
+> <p>- Plato</p>
