@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"There are two things a person should never be angry at, what they can help, and what they cannot."</p>
-> <p>- Plato</p>
+> <p>"Let not your mind run on what you lack as much as on what you have already."</p>
+> <p>- Marcus Aurelius</p>
