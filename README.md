@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Let not your mind run on what you lack as much as on what you have already."</p>
-> <p>- Marcus Aurelius</p>
+> <p>"I believe that potential is unlimited - success depends on daring to act on dreams."</p>
+> <p>- Estee Lauder</p>
