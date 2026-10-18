@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"I believe that potential is unlimited - success depends on daring to act on dreams."</p>
-> <p>- Estee Lauder</p>
+> <p>"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."</p>
+> <p>- Albus Dumbledore</p>
