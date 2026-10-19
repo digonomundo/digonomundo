@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."</p>
-> <p>- Albus Dumbledore</p>
+> <p>"If I cannot do great things. I can do small things in a great way."</p>
+> <p>- Martin Luther King, Jr.</p>
