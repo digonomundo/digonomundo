@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If I cannot do great things. I can do small things in a great way."</p>
-> <p>- Martin Luther King, Jr.</p>
+> <p>"What one does is what counts. Not what one had the intention of doing."</p>
+> <p>- Pablo Picasso</p>
