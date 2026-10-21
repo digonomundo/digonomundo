@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"What one does is what counts. Not what one had the intention of doing."</p>
-> <p>- Pablo Picasso</p>
+> <p>"A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled."</p>
+> <p>- Andrew Carnegie</p>
