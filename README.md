@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled."</p>
-> <p>- Andrew Carnegie</p>
+> <p>"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."</p>
+> <p>- Morihei Ueshiba</p>
