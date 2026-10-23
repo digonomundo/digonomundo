@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."</p>
-> <p>- Morihei Ueshiba</p>
+> <p>"There is nothing like looking if you want to find something."</p>
+> <p>- J.R.R. Tolkien</p>
