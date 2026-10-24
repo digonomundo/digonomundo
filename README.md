@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"There is nothing like looking if you want to find something."</p>
-> <p>- J.R.R. Tolkien</p>
+> <p>"Experience is simply the name we give our mistakes."</p>
+> <p>- Oscar Wilde</p>
