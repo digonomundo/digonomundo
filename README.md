@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Experience is simply the name we give our mistakes."</p>
-> <p>- Oscar Wilde</p>
+> <p>"Behind every cloud is another cloud."</p>
+> <p>- Judy Garland</p>
