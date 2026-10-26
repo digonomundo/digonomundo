@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Behind every cloud is another cloud."</p>
-> <p>- Judy Garland</p>
+> <p>"If you do the work you get rewarded. There are no shortcuts in life."</p>
+> <p>- Michael Jordan</p>
