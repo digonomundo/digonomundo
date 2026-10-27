@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you do the work you get rewarded. There are no shortcuts in life."</p>
-> <p>- Michael Jordan</p>
+> <p>"My instinct is always to seek out challenges as opposed to avoiding them."</p>
+> <p>- Josh Waitzkin</p>
