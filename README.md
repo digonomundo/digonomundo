@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"My instinct is always to seek out challenges as opposed to avoiding them."</p>
-> <p>- Josh Waitzkin</p>
+> <p>"I never said it would be easy, I only said it would be worth it."</p>
+> <p>- Mae West</p>
