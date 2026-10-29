@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"I never said it would be easy, I only said it would be worth it."</p>
-> <p>- Mae West</p>
+> <p>"Your past does not equal your future."</p>
+> <p>- Tony Robbins</p>
