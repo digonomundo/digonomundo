@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Your past does not equal your future."</p>
-> <p>- Tony Robbins</p>
+> <p>"It will never rain roses: when we want to have more roses, we must plant more roses."</p>
+> <p>- George Eliot</p>
