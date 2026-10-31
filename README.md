@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"It will never rain roses: when we want to have more roses, we must plant more roses."</p>
-> <p>- George Eliot</p>
+> <p>"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind."</p>
+> <p>- Dr. Seuss</p>
