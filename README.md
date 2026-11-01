@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind."</p>
-> <p>- Dr. Seuss</p>
+> <p>"The constant assertion of belief is an indication of fear."</p>
+> <p>- Jiddu Krishnamurti</p>
