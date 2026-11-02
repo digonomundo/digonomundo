@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The constant assertion of belief is an indication of fear."</p>
-> <p>- Jiddu Krishnamurti</p>
+> <p>"I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong."</p>
+> <p>- Elon Musk</p>
