@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong."</p>
-> <p>- Elon Musk</p>
+> <p>"You can calculate the worth of a man by the number of his enemies."</p>
+> <p>- Gustave Flaubert</p>
