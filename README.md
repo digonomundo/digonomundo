@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"You can calculate the worth of a man by the number of his enemies."</p>
-> <p>- Gustave Flaubert</p>
+> <p>"We win by helping each other win."</p>
+> <p>- Jack Butcher</p>
