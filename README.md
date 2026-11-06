@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have."</p>
-> <p>- Gary Keller</p>
+> <p>"Never say never, because limits, like fears, are often just an illusion."</p>
+> <p>- Michael Jordan</p>
