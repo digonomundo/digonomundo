@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"I believe that potential is unlimited - success depends on daring to act on dreams."</p>
-> <p>- Estee Lauder</p>
+> <p>"Be happy now, without reason - or you never will be at all."</p>
+> <p>- Dan Millman</p>
