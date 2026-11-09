@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Be happy now, without reason - or you never will be at all."</p>
-> <p>- Dan Millman</p>
+> <p>"You may be disappointed if you fail, but you are doomed if you don't try."</p>
+> <p>- Beverly Sills</p>
