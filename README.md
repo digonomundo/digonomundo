@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"You may be disappointed if you fail, but you are doomed if you don't try."</p>
-> <p>- Beverly Sills</p>
+> <p>"Make each day a new horizon."</p>
+> <p>- Christopher McCandless</p>
