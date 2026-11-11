@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Make each day a new horizon."</p>
-> <p>- Christopher McCandless</p>
+> <p>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</p>
+> <p>- Plato</p>
