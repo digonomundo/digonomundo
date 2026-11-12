@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</p>
-> <p>- Plato</p>
+> <p>"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future."</p>
+> <p>- Earl Nightingale</p>
