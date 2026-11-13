@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future."</p>
-> <p>- Earl Nightingale</p>
+> <p>"Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now."</p>
+> <p>- Spencer Johnson</p>
