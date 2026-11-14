@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now."</p>
-> <p>- Spencer Johnson</p>
+> <p>"Where there's life, there's hope."</p>
+> <p>- Stephen Hawking</p>
