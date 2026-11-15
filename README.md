@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Where there's life, there's hope."</p>
-> <p>- Stephen Hawking</p>
+> <p>"Excellence is not an exception, it is a prevailing attitude."</p>
+> <p>- Colin Powell</p>
