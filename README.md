@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Excellence is not an exception, it is a prevailing attitude."</p>
-> <p>- Colin Powell</p>
+> <p>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</p>
+> <p>- Roy T. Bennett</p>
