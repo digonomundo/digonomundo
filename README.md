@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</p>
-> <p>- Roy T. Bennett</p>
+> <p>"The art of being happy lies in the power of extracting happiness from common things."</p>
+> <p>- Henry Ward Beecher</p>
