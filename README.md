@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The art of being happy lies in the power of extracting happiness from common things."</p>
-> <p>- Henry Ward Beecher</p>
+> <p>"The difference between ordinary and extraordinary is that little extra."</p>
+> <p>- Colin R. Davis</p>
