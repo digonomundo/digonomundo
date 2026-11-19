@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The difference between ordinary and extraordinary is that little extra."</p>
-> <p>- Colin R. Davis</p>
+> <p>"We ordinary people must forge our own beauty."</p>
+> <p>- Kenji Miyazawa</p>
