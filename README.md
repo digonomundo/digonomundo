@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"We ordinary people must forge our own beauty."</p>
-> <p>- Kenji Miyazawa</p>
+> <p>"Being entirely honest with oneself is a good exercise."</p>
+> <p>- Sigmund Freud</p>
