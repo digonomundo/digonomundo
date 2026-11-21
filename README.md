@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Being entirely honest with oneself is a good exercise."</p>
-> <p>- Sigmund Freud</p>
+> <p>"There is nothing better than the encouragement of a good friend."</p>
+> <p>- David Brinkley</p>
