@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"There is nothing better than the encouragement of a good friend."</p>
-> <p>- David Brinkley</p>
+> <p>"The more you extend kindness to yourself, the more it will become your automatic response to others."</p>
+> <p>- Wayne Dyer</p>
