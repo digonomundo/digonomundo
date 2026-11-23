@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"The more you extend kindness to yourself, the more it will become your automatic response to others."</p>
-> <p>- Wayne Dyer</p>
+> <p>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</p>
+> <p>- Barack Obama</p>
