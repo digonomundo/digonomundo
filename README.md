@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</p>
-> <p>- Barack Obama</p>
+> <p>"Anything you may hold firmly in your imagination can be yours."</p>
+> <p>- William James</p>
