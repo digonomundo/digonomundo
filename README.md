@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Anything you may hold firmly in your imagination can be yours."</p>
-> <p>- William James</p>
+> <p>"Watch your actions, they become habits; watch your habits, they become character; watch your character, for it becomes your destiny."</p>
+> <p>- Jeff Booth</p>
