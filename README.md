@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Watch your actions, they become habits; watch your habits, they become character; watch your character, for it becomes your destiny."</p>
-> <p>- Jeff Booth</p>
+> <p>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</p>
+> <p>- Jeffrey Gitomer</p>
