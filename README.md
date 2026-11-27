@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</p>
-> <p>- Jeffrey Gitomer</p>
+> <p>"He will win who knows when to fight and when not to fight."</p>
+> <p>- Sun Tzu</p>
