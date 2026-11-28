@@ -48,5 +48,5 @@ if hired {
 ```
 
 ### 📜 Quote of the day:
-> <p>"He will win who knows when to fight and when not to fight."</p>
-> <p>- Sun Tzu</p>
+> <p>"All cruelty springs from weakness."</p>
+> <p>- Seneca</p>
